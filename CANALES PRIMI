@@ -17,6 +17,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95
 #EXTINF:-1, CINE FAMILIAR
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 
+#EXTINF:-1, CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+
 #EXTINF:-1, NICK 
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
 
