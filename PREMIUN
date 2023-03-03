@@ -1,31 +1,40 @@
 #EXTM3U
 
 #EXTINF:-1, EXITOSA
-https://cu.onliv3.com/livevd1/user2.m3u8
+http://167.114.173.24:25461/edson2022/edson2022/42876
 
 #EXTINF:-1, KARIBEÑA
 https://cu.onliv3.com/livevd/user1.m3u8
 
 #EXTINF:-1, WILAX
-https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmpMYJnya77BzPbLdGpLX-QPT5Z4EN2UInrLltj8yy9W)/dm/3/x7x4dgx/s/live-1.m3u8#cell=lnyc
+http://167.114.173.24:25461/edson2022/edson2022/42879
 
 #EXTINF:-1, BEST CABLE
 https://ca2.inka.net.pe/bestcablesports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, LATINA
-https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
+http://167.114.173.24:25461/edson2022/edson2022/42869
+
+#EXTINF:-1, AMERICA
+http://167.114.173.24:25461/edson2022/edson2022/42866
+
+#EXTINF:-1, ATV
+http://167.114.173.24:25461/edson2022/edson2022/42867
 
 #EXTINF:-1, PANAMERICANA
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
+#EXTINF:-1, GLOBAL TV
+http://167.114.173.24:25461/edson2022/edson2022/42870
+
 #EXTINF:-1, TV PERU NOTICIAS
-https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+http://167.114.173.24:25461/edson2022/edson2022/42872
 
 #EXTINF:-1, DOBLE C
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 
-#EXTINF:-1, VZ TV
-https://live.obslivestream.com/vztv/index.m3u8
+#EXTINF:-1, RPP
+http://167.114.173.24:25461/edson2022/edson2022/42877
 
 #EXTINF:-1, TELECOLOR
 https://live.obslivestream.com/telecolormux/index.m3u8
@@ -33,8 +42,8 @@ https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1, MASTER TELEVISISON
 https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
 
-#EXTINF:-1, OK TV
-https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+#EXTINF:-1, PERU MAGICO
+http://167.114.173.24:25461/edson2022/edson2022/42871
 
 #EXTINF:-1, ANTARES TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
@@ -51,8 +60,23 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1, CANAL ESTEREO
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 
+#EXTINF:-1, TL NOVELAS
+http://167.114.173.24:25461/edson2022/edson2022/16
+
+#EXTINF:-1, LAS ESTRELLAS
+http://167.114.173.24:25461/edson2022/edson2022/1
+
+#EXTINF:-1, CORAZON
+http://167.114.173.24:25461/edson2022/edson2022/14
+
 #EXTINF:-1, TOP LATINO
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1, ANIMAL PLANET
+http://167.114.173.24:25461/edson2022/edson2022/60
+
+#EXTINF:-1, DISCOVERY CHANEL
+http://167.114.173.24:25461/edson2022/edson2022/64
 
 #EXTINF:-1, HISTORY
 http://167.114.173.24:25461/edson2022/edson2022/62
@@ -99,8 +123,14 @@ http://167.114.173.24:25461/edson2022/edson2022/78
 #EXTINF:-1, AXN
 http://167.114.173.24:25461/edson2022/edson2022/82
 
+#EXTINF:-1, PARAMOUNT
+http://167.114.173.24:25461/edson2022/edson2022/100
+
 #EXTINF:-1, CINE CLASICOS
 http://167.114.173.24:25461/edson2022/edson2022/100
+
+#EXTINF:-1, GOLDEN
+http://167.114.173.24:25461/edson2022/edson2022/87
 
 #EXTINF:-1, TCM
 http://167.114.173.24:25461/edson2022/edson2022/83
