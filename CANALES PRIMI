@@ -3,17 +3,47 @@
 #EXTINF:-1, OK TV
 https://stream.plixitv.live/oktv/oktv/playlist.m3u8
 
-#EXTINF:-1, CINE TERROR
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1, CARTOON NETWORK
+http://167.114.173.24:25461/edson2022/edson2022/22
 
-#EXTINF:-1, BOB ESPONJA 24 HORAS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1, SPACE
+http://167.114.173.24:25461/edson2022/edson2022/105
+
+#EXTINF:-1, BOOMERANG
+http://167.114.173.24:25461/edson2022/edson2022/28
+
+#EXTINF:-1, NICKTEEN
+http://167.114.173.24:25461/edson2022/edson2022/19
+
+#EXTINF:-1, DISNEY CHANEL
+http://167.114.173.24:25461/edson2022/edson2022/23
+
+#EXTINF:-1, AMC
+http://167.114.173.24:25461/edson2022/edson2022/108
+
+#EXTINF:-1, FOX SPORT 1
+http://167.114.173.24:25461/edson2022/edson2022/124
+
+#EXTINF:-1, FOX SPORT 2
+http://167.114.173.24:25461/edson2022/edson2022/125
+
+#EXTINF:-1, FOX SPORT 3
+http://167.114.173.24:25461/edson2022/edson2022/126
+
+#EXTINF:-1, BITME
+http://167.114.173.24:25461/edson2022/edson2022/30
+
+#EXTINF:-1, DISNEY JUNIOR
+http://167.114.173.24:25461/edson2022/edson2022/26
 
 #EXTINF:-1, ANTARES TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 
 #EXTINF:-1, URANIO TV
 https://live.obslivestream.com/uraniotv/index.m3u8
+
+#EXTINF:-1, TOONCAST
+http://167.114.173.24:25461/edson2022/edson2022/29
 
 #EXTINF:-1, VIA ALTO MAYO
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
@@ -27,8 +57,8 @@ https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:-1, VZ TV
 https://live.obslivestream.com/vztv/index.m3u8
 
-#EXTINF:-1, CINE ESTELAR
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf968040ab7d8f181e6a68b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=901&terminate=false&userId=
+#EXTINF:-1, TNT
+http://167.114.173.24:25461/edson2022/edson2022/102
 
 #EXTINF:-1, TELECOLOR
 https://live.obslivestream.com/telecolormux/index.m3u8
@@ -45,11 +75,11 @@ https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1, CINE SUCESOS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
-#EXTINF:-1, CINE ROMANCE
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1, CINEMAX
+http://167.114.173.24:25461/edson2022/edson2022/106
 
-#EXTINF:-1, CINE FAMILIAR
-http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:-1, CINECANAL
+http://167.114.173.24:25461/edson2022/edson2022/107
 
 #EXTINF:-1, BEST CABLE
 https://ca2.inka.net.pe/bestcablesports/tracks-v1a1/mono.m3u8
@@ -64,7 +94,7 @@ https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmmpMYJnya77BzPbLdG
 https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_3.m3u8?&
 
 #EXTINF:-1, NICK 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId=
+http://167.114.173.24:25461/edson2022/edson2022/18
 
 #EXTINF:-1, HISTORY PARANORMAL
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612ce5214bb5790007ad3016/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -79,31 +109,34 @@ https://cu.onliv3.com/livevd/user1.m3u8
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-1, NICK JR 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=998&terminate=false&userId=
+http://167.114.173.24:25461/edson2022/edson2022/20
 
 #EXTINF:-1, TELENOVELAS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-1, CINE
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
+#EXTINF:-1, TCM
+http://167.114.173.24:25461/edson2022/edson2022/83
 
-#EXTINF:-1, TV TOONS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1, DISCOVERY KIDS
+http://167.114.173.24:25461/edson2022/edson2022/25
 
 #EXTINF:-1, CINE CLASICOS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+http://167.114.173.24:25461/edson2022/edson2022/100
 
 #EXTINF:-1, CANAL ESTEREO
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1, MY TIME MOVIE NETWORK
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1, A y E
+http://167.114.173.24:25461/edson2022/edson2022/78
 
-#EXTINF:-1, CINE TERROR 2
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+#EXTINF:-1, NATGEO
+http://167.114.173.24:25461/edson2022/edson2022/61
 
-#EXTINF:-1, CINE ACCION
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
+#EXTINF:-1, HISTORY
+http://167.114.173.24:25461/edson2022/edson2022/62
 
-#EXTINF:-1, CINE COMEDIA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1, AXN
+http://167.114.173.24:25461/edson2022/edson2022/82
+
+#EXTINF:-1, STUDIO UNIVERSAL
+http://167.114.173.24:25461/edson2022/edson2022/97
