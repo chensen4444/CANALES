@@ -66,8 +66,8 @@ http://167.114.173.24:25461/edson2022/edson2022/16
 #EXTINF:-1, LAS ESTRELLAS
 http://167.114.173.24:25461/edson2022/edson2022/1
 
-#EXTINF:-1, CORAZON
-http://167.114.173.24:25461/edson2022/edson2022/14
+#EXTINF:-1, PASIONES
+http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/1495
 
 #EXTINF:-1, TOP LATINO
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
@@ -83,6 +83,12 @@ http://167.114.173.24:25461/edson2022/edson2022/62
 
 #EXTINF:-1, NATGEO
 http://167.114.173.24:25461/edson2022/edson2022/61
+
+#EXTINF:-1, EL CHAVO DE 8 24HORAS
+http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/35022
+
+#EXTINF:-1, EL CHAVO DEL 8 ANIMADO
+http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/12023
 
 #EXTINF:-1, CARTOON NETWORK
 http://167.114.173.24:25461/edson2022/edson2022/22
@@ -131,6 +137,9 @@ http://167.114.173.24:25461/edson2022/edson2022/87
 
 #EXTINF:-1, TCM
 http://167.114.173.24:25461/edson2022/edson2022/83
+
+#EXTINF:-1, MULTIPREMIER
+http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38498
 
 #EXTINF:-1, CINEMAX
 http://167.114.173.24:25461/edson2022/edson2022/106
