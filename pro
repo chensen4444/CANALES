@@ -91,7 +91,7 @@ http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0EYX4m1gVwZm-3OTXbK88ZQ/ts
 http://ac.ntvlatino.com:8080/lino2022/lino2022/18576
 
 #EXTINF:-1, CARTOON NETWORK
-http://167.114.173.24:25461/edson2022/edson2022/22
+http://ac.ntvlatino.com:8080/lino2022/lino2022/3249
 
 #EXTINF:-1, BOOMERANG
 http://167.114.173.24:25461/edson2022/edson2022/28
@@ -109,7 +109,10 @@ http://167.114.173.24:25461/edson2022/edson2022/30
 http://167.114.173.24:25461/edson2022/edson2022/26
 
 #EXTINF:-1, TOONCAST
-http://167.114.173.24:25461/edson2022/edson2022/29
+http://ac.ntvlatino.com:8080/lino2022/lino2022/3242
+
+#EXTINF:-1, LOONEY TUNES
+http://ac.ntvlatino.com:8080/lino2022/lino2022/29409
 
 #EXTINF:-1, NICK 
 http://167.114.173.24:25461/edson2022/edson2022/18
@@ -139,16 +142,43 @@ http://ac.ntvlatino.com:8080/lino2022/lino2022/3236
 http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0NWRwcmyOZIUaBqjlirWhF8/ts
 
 #EXTINF:-1, TCM
-http://167.114.173.24:25461/edson2022/edson2022/83
+http://ac.ntvlatino.com:8080/lino2022/lino2022/4106
+
+#EXTINF:-1, WARNER
+http://ac.ntvlatino.com:8080/lino2022/lino2022/3228
+
+#EXTINF:-1, COMEDY CENTRAL
+http://ac.ntvlatino.com:8080/lino2022/lino2022/3241
 
 #EXTINF:-1, MULTIPREMIER
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38498
+
+#EXTINF:-1, FX
+http://ac.ntvlatino.com:8080/lino2022/lino2022/3201
+
+#EXTINF:-1, SONY
+http://ac.ntvlatino.com:8080/lino2022/lino2022/3069
 
 #EXTINF:-1, CINEMAX
 http://167.114.173.24:25461/edson2022/edson2022/106
 
 #EXTINF:-1, CINECANAL
-http://167.114.173.24:25461/edson2022/edson2022/107
+http://ac.ntvlatino.com:8080/lino2022/lino2022/3250
+
+#EXTINF:-1, CINE
+http://ac.ntvlatino.com:8080/lino2022/lino2022/29415
+
+#EXTINF:-1, HBO PLUS
+http://ac.ntvlatino.com:8080/lino2022/lino2022/4109
+
+#EXTINF:-1, HBO
+http://ac.ntvlatino.com:8080/lino2022/lino2022/4112
+
+#EXTINF:-1, HBO 2
+http://ac.ntvlatino.com:8080/lino2022/lino2022/4095
+
+#EXTINF:-1, HBO XTREME
+http://ac.ntvlatino.com:8080/lino2022/lino2022/8226
 
 #EXTINF:-1, TNT
 http://167.114.173.24:25461/edson2022/edson2022/102
