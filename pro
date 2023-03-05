@@ -133,10 +133,10 @@ http://167.114.173.24:25461/edson2022/edson2022/82
 http://167.114.173.24:25461/edson2022/edson2022/100
 
 #EXTINF:-1, GOLDEN
-http://elmonkey.us:25461/Gisela1/Gisela1/85
+http://ac.ntvlatino.com:8080/lino2022/lino2022/3236
 
 #EXTINF:-1, GOLDEN PLUS
-http://elmonkey.us:25461/Gisela1/Gisela1/86
+http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0NWRwcmyOZIUaBqjlirWhF8/ts
 
 #EXTINF:-1, TCM
 http://167.114.173.24:25461/edson2022/edson2022/83
