@@ -73,16 +73,16 @@ http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0H9b5bPi9c2Qk_fkJk13Cv0/ts
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 
 #EXTINF:-1, ANIMAL PLANET
-http://167.114.173.24:25461/edson2022/edson2022/60
+http://ac.ntvlatino.com:8080/lino2022/lino2022/3247
 
 #EXTINF:-1, DISCOVERY CHANEL
-http://167.114.173.24:25461/edson2022/edson2022/64
+http://ac.ntvlatino.com:8080/lino2022/lino2022/4123
 
 #EXTINF:-1, HISTORY
-http://167.114.173.24:25461/edson2022/edson2022/62
+http://ac.ntvlatino.com:8080/lino2022/lino2022/3234
 
 #EXTINF:-1, NATGEO
-http://167.114.173.24:25461/edson2022/edson2022/61
+http://ac.ntvlatino.com:8080/lino2022/lino2022/4126
 
 #EXTINF:-1, EL CHAVO DEl 8 
 http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0EYX4m1gVwZm-3OTXbK88ZQ/ts
@@ -130,10 +130,10 @@ http://167.114.173.24:25461/edson2022/edson2022/97
 http://167.114.173.24:25461/edson2022/edson2022/78
 
 #EXTINF:-1, AXN
-http://167.114.173.24:25461/edson2022/edson2022/82
+http://ac.ntvlatino.com:8080/lino2022/lino2022/3248
 
 #EXTINF:-1, PARAMOUNT
-http://167.114.173.24:25461/edson2022/edson2022/100
+http://ac.ntvlatino.com:8080/lino2022/lino2022/2952
 
 #EXTINF:-1, GOLDEN
 http://ac.ntvlatino.com:8080/lino2022/lino2022/3236
@@ -160,7 +160,7 @@ http://ac.ntvlatino.com:8080/lino2022/lino2022/3201
 http://ac.ntvlatino.com:8080/lino2022/lino2022/3069
 
 #EXTINF:-1, CINEMAX
-http://167.114.173.24:25461/edson2022/edson2022/106
+http://ac.ntvlatino.com:8080/lino2022/lino2022/4110
 
 #EXTINF:-1, CINECANAL
 http://ac.ntvlatino.com:8080/lino2022/lino2022/3250
@@ -181,13 +181,13 @@ http://ac.ntvlatino.com:8080/lino2022/lino2022/4095
 http://ac.ntvlatino.com:8080/lino2022/lino2022/8226
 
 #EXTINF:-1, TNT
-http://167.114.173.24:25461/edson2022/edson2022/102
+http://ac.ntvlatino.com:8080/lino2022/lino2022/4010
 
 #EXTINF:-1, AMC
-http://167.114.173.24:25461/edson2022/edson2022/108
+http://ac.ntvlatino.com:8080/lino2022/lino2022/4118
 
 #EXTINF:-1, SPACE
-http://167.114.173.24:25461/edson2022/edson2022/105
+http://ac.ntvlatino.com:8080/lino2022/lino2022/4099
 
 #EXTINF:-1, FOX SPORT 1
 http://167.114.173.24:25461/edson2022/edson2022/124
