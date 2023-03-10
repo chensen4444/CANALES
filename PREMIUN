@@ -1,166 +1,99 @@
 #EXTM3U
-
-#EXTINF:-1, EXITOSA
+#EXTINF:-1 EXITOSA
 http://167.114.173.24:25461/edson2022/edson2022/42876
-
-#EXTINF:-1, LATINA
+#EXTINF:-1 LATINA
 http://167.114.173.24:25461/edson2022/edson2022/42869
-
-#EXTINF:-1, KARIBEÑA
-https://cu.onliv3.com/livevd/user1.m3u8
-
-#EXTINF:-1, AMERICA
-http://167.114.173.24:25461/edson2022/edson2022/42866
-
-#EXTINF:-1, ATV
-http://167.114.173.24:25461/edson2022/edson2022/42867
-
-#EXTINF:-1, PANAMERICANA
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-
-#EXTINF:-1, GLOBAL TV
+#EXTINF:-1 LA KARIBEÑA
+http://tv.teleclub.xyz/stream/Peru/KARIBE%C3%B1A_TV/index.m3u8
+#EXTINF:-1 AMERICA
+http://play.flamaplus.tv:80/play/F-NICAVRobI77cbts9bOJv8ZqTEFTI2-UsO9Ej9zUXI/ts
+#EXTINF:-1 ATV+
+http://tv.teleclub.xyz/stream/Paises/ATV2_PE/index.m3u8
+#EXTINF:-1 ATV
+http://tv.teleclub.xyz/stream/Paises/ATV_PE/index.m3u8
+#EXTINF:-1 GLOBAL TV
 http://167.114.173.24:25461/edson2022/edson2022/42870
-
-#EXTINF:-1, TV PERU NOTICIAS
-http://167.114.173.24:25461/edson2022/edson2022/42872
-
-#EXTINF:-1, WILAX
-http://167.114.173.24:25461/edson2022/edson2022/42879
-
-#EXTINF:-1, BEST CABLE
-https://ca2.inka.net.pe/bestcablesports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, DOBLE C
-https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
-
-#EXTINF:-1, RPP
-http://167.114.173.24:25461/edson2022/edson2022/42877
-
-#EXTINF:-1, TELECOLOR
-https://live.obslivestream.com/telecolormux/index.m3u8
-
-#EXTINF:-1, MASTER TELEVISISON
-https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
-
-#EXTINF:-1, PERU MAGICO
-http://167.114.173.24:25461/edson2022/edson2022/42871
-
-#EXTINF:-1, ANTARES TV
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:-1, URANIO TV
-https://live.obslivestream.com/uraniotv/index.m3u8
-
-#EXTINF:-1, VIA ALTO MAYO
-https://live.obslivestream.com/viaaltomayomux/index.m3u8
-
-#EXTINF:-1, AUTENTICA TV
-https://live.obslivestream.com/autenticatvmux/index.m3u8
-
-#EXTINF:-1, CANAL ESTEREO
-http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
-
-#EXTINF:-1, TL NOVELAS
-http://167.114.173.24:25461/edson2022/edson2022/16
-
-#EXTINF:-1, LAS ESTRELLAS
-http://167.114.173.24:25461/edson2022/edson2022/1
-
-#EXTINF:-1, PASIONES
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/1495
-
-#EXTINF:-1, TOP LATINO
+#EXTINF:-1 PANAMERICANA
+http://tv.teleclub.xyz/stream/Peru/PANAMERICANA/index.m3u8
+#EXTINF:-1 TV PERU NOTICIAS
+http://tv.teleclub.xyz/stream/Peru/TV_PERU_NOTICIAS/index.m3u8
+#EXTINF:-1 CHOSICA
+http://tv.teleclub.xyz/stream/Peru/CENTRAL_TV_CHOSICA/index.m3u8
+#EXTINF:-1 CATACAOS TV
+http://tv.teleclub.xyz/stream/Peru/CANAL_8_CATACAOS/index.m3u8
+#EXTINF:-1 AUTENTICA TV
+http://tv.teleclub.xyz/stream/Peru/AUTENTICA_TV/index.m3u8
+#EXTINF:-1 TV URANIO
+http://tv.teleclub.xyz/stream/Peru/URANIO_TV/index.m3u8
+#EXTINF:-1 PASIONES
+http://go-nextlevel.xyz:25461/Valentin/Valentin/241098
+#EXTINF:-1 OK TV
+http://tv.teleclub.xyz/stream/Peru/OK_TEVE/index.m3u8
+#EXTINF:-1 TV ALTO MAYO
+http://tv.teleclub.xyz/stream/Peru/VIA_ALTO_MAYO_TV/index.m3u8
+#EXTINF:-1 LAS ESTRELLAS
+http://tv.teleclub.xyz/stream/Mundo/LAS_ESTRELLAS/index.m3u8
+#EXTINF:-1 MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
-
-#EXTINF:-1, ANIMAL PLANET
-http://167.114.173.24:25461/edson2022/edson2022/60
-
-#EXTINF:-1, DISCOVERY CHANEL
-http://167.114.173.24:25461/edson2022/edson2022/64
-
-#EXTINF:-1, HISTORY
-http://167.114.173.24:25461/edson2022/edson2022/62
-
-#EXTINF:-1, NATGEO
-http://167.114.173.24:25461/edson2022/edson2022/61
-
-#EXTINF:-1, EL CHAVO DEl 8 
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/35022
-
-#EXTINF:-1, EL CHAVO DEL 8 ANIMADO
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/12023
-
-#EXTINF:-1, CARTOON NETWORK
-http://167.114.173.24:25461/edson2022/edson2022/22
-
-#EXTINF:-1, BOOMERANG
-http://167.114.173.24:25461/edson2022/edson2022/28
-
-#EXTINF:-1, NICKTEEN
-http://167.114.173.24:25461/edson2022/edson2022/19
-
-#EXTINF:-1, DISNEY CHANEL
-http://167.114.173.24:25461/edson2022/edson2022/23
-
-#EXTINF:-1, BITME
-http://167.114.173.24:25461/edson2022/edson2022/30
-
-#EXTINF:-1, DISNEY JUNIOR
-http://167.114.173.24:25461/edson2022/edson2022/26
-
-#EXTINF:-1, TOONCAST
-http://167.114.173.24:25461/edson2022/edson2022/29
-
-#EXTINF:-1, NICK 
-http://167.114.173.24:25461/edson2022/edson2022/18
-
-#EXTINF:-1, NICK JR 
-http://167.114.173.24:25461/edson2022/edson2022/20
-
-#EXTINF:-1, DISCOVERY KIDS
-http://167.114.173.24:25461/edson2022/edson2022/25
-
-#EXTINF:-1, STUDIO UNIVERSAL
-http://167.114.173.24:25461/edson2022/edson2022/97
-
-#EXTINF:-1, A y E
-http://167.114.173.24:25461/edson2022/edson2022/78
-
-#EXTINF:-1, AXN
-http://167.114.173.24:25461/edson2022/edson2022/82
-
-#EXTINF:-1, PARAMOUNT
-http://167.114.173.24:25461/edson2022/edson2022/100
-
-#EXTINF:-1, GOLDEN
-http://167.114.173.24:25461/edson2022/edson2022/87
-
-#EXTINF:-1, TCM
-http://167.114.173.24:25461/edson2022/edson2022/83
-
-#EXTINF:-1, MULTIPREMIER
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38498
-
-#EXTINF:-1, CINEMAX
-http://167.114.173.24:25461/edson2022/edson2022/106
-
-#EXTINF:-1, CINECANAL
-http://167.114.173.24:25461/edson2022/edson2022/107
-
-#EXTINF:-1, TNT
-http://167.114.173.24:25461/edson2022/edson2022/102
-
-#EXTINF:-1, AMC
-http://167.114.173.24:25461/edson2022/edson2022/108
-
-#EXTINF:-1, SPACE
-http://167.114.173.24:25461/edson2022/edson2022/105
-
-#EXTINF:-1, FOX SPORT 1
-http://167.114.173.24:25461/edson2022/edson2022/124
-
-#EXTINF:-1, FOX SPORT 2
-http://167.114.173.24:25461/edson2022/edson2022/125
-
-#EXTINF:-1, FOX SPORT 3
-http://167.114.173.24:25461/edson2022/edson2022/126
+#EXTINF:-1 MTV MUSIC
+http://tv.teleclub.xyz/stream/Musica/MTV/index.m3u8
+#EXTINF:-1 TL NOVELAS
+http://tv.teleclub.xyz/stream/Cultura/TLNovelas/index.m3u8
+#EXTINF:-1 NATIONAL GEO
+http://tv.teleclub.xyz/stream/Cultura/NATGEO/index.m3u8
+#EXTINF:-1 ANIMAL PLANET
+http://tv.teleclub.xyz/stream/Cultura/ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 DISCOVERY CHANNEL
+http://tv.teleclub.xyz/stream/Cultura/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:-1 HISTORY 2
+http://tv.teleclub.xyz/stream/Cultura/H2/index.m3u8
+#EXTINF:-1 HISTORY CHANNEL
+http://tv.teleclub.xyz/stream/Cultura/HISTORY/index.m3u8
+#EXTINF:-1 A Y E
+http://tv.teleclub.xyz/stream/Cultura/A_E/index.m3u8
+#EXTINF:-1 CHESPIRITO
+http://tv.teleclub.xyz/stream/24_7/CHESPIRITO/index.m3u8
+#EXTINF:-1 EL CHAVO
+http://tv.teleclub.xyz/stream/24_7/CHAVO_8/index.m3u8
+#EXTINF:-1 CARTOON NETWORK
+http://tv.teleclub.xyz/stream/Infantil/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 NICK
+http://tv.teleclub.xyz/stream/Infantil/NICK/index.m3u8
+#EXTINF:-1 DISCOVERY KIDS
+http://tv.teleclub.xyz/stream/Infantil/DISCOVERY_KIDS/index.m3u8
+#EXTINF:-1 NICK JR
+http://tv.teleclub.xyz/stream/Infantil/NICK_JR/index.m3u8
+#EXTINF:-1 BITME
+http://tv.teleclub.xyz/stream/Infantil/BITME/index.m3u8
+#EXTINF:-1 TOONCAST
+http://tv.teleclub.xyz/stream/Infantil/TOONCAST/index.m3u8
+#EXTINF:-1 GOLDEN PREMIER
+http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN_PREMIER/index.m3u8
+#EXTINF:-1 GOLDEN
+http://tv.teleclub.xyz/stream/Entretenimiento/GOLDEN/index.m3u8
+#EXTINF:-1 DE PELICULA
+http://tv.teleclub.xyz/stream/Entretenimiento/DEPELICULA/index.m3u8
+#EXTINF:-1 SPACE
+http://tv.teleclub.xyz/stream/Entretenimiento/SPACE/index.m3u8
+#EXTINF:-1 AMC
+http://tv.teleclub.xyz/stream/Entretenimiento/AMC/index.m3u8
+#EXTINF:-1 CINEMAX
+http://tv.teleclub.xyz/stream/Entretenimiento/CINEMAX/index.m3u8
+#EXTINF:-1 TNT
+http://tv.teleclub.xyz/stream/Entretenimiento/TNT/index.m3u8
+#EXTINF:-1 FX
+http://tv.teleclub.xyz/stream/Entretenimiento/FX/index.m3u8
+#EXTINF:-1 STUDIO UNIVERSAL
+http://tv.teleclub.xyz/stream/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8
+#EXTINF:-1 PARAMOUNT
+http://ac.ntvlatino.com:8080/lino2022/lino2022/2952
+#EXTINF:-1 AXN
+http://tv.teleclub.xyz/stream/Entretenimiento/AXN/index.m3u8
+#EXTINF:-1 COMEDY CENTRAL
+http://tv.teleclub.xyz/stream/Cultura/COMEDYCENTRAL/index.m3u8
+#EXTINF:-1 WARNER
+http://tv.teleclub.xyz/stream/Entretenimiento/WARNER_TV/index.m3u8
+#EXTINF:-1 CINE CANAL
+http://tv.teleclub.xyz/stream/Entretenimiento/CINECANAL/index.m3u8
+#EXTINF:-1 UNIVERSAL
+http://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_TV/index.m3
