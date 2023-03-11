@@ -39,6 +39,12 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:-1, CANAL ESTEREO
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas FHD (CL*)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención (Exclusivo)",Las Estrellas FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313173
+#EXTINF:-1 tvg-id="CO - Pasiones" tvg-name="Pasiones FHD (LAT)" tvg-logo="https://img.tvcl.xyz/entretencion/pasiones.png" group-title="Entretención",Pasiones FHD (LAT)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/35060
+#EXTINF:-1 tvg-id="" tvg-name="TLNovelas HQ (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",TLNovelas HQ (MX VIP)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302732
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Lo Que Callamos Las Mujeres SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Lo Que Callamos Las Mujeres SD
 http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/49165
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD (CL*)" tvg-logo="https://img.tvcl.xyz/culturales/animalp.png" group-title="Culturales (Exclusivos)",Animal Planet FHD (CL*)
@@ -88,6 +94,10 @@ http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302633
 #EXTINF:-1 tvg-id="MX - Tooncast" tvg-name="Toon Cast HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Toon Cast HD (MX VIP)
 #EXTINF:-1 tvg-id="Canal BitMe" tvg-name="Bitme FHD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/bitme.png" group-title="Infantiles",Bitme FHD (MX)
 http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/34797
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Disney Family FHD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Disney Family FHD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50578
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Disney Pixar FHD" tvg-logo="http://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="Canales 24/7",24/7 VIP Cinema Disney Pixar FHD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50579
 #EXTINF:-1 tvg-id="" tvg-name="AMC  FHD (CL*)" tvg-logo="http://198.255.17.202:58000/zeus/lists/icons/amc.png" group-title="Pelicula y Series (Exclusivos)",AMC  FHD (CL*)
 http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313033
 #EXTINF:-1 tvg-id="" tvg-name="AXN  FHD (CL*)" tvg-logo="http://hidra.live:80/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="Pelicula y Series (Exclusivos)",AXN  FHD (CL*)
@@ -148,15 +158,9 @@ http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50575
 http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50576
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema DC Universe HD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema DC Universe HD
 http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50577
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Disney Family FHD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Disney Family FHD
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50578
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Disney Pixar FHD" tvg-logo="http://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="Canales 24/7",24/7 VIP Cinema Disney Pixar FHD
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50579
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Dreamworks FHD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Dreamworks FHD
 http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50580
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Familia FHD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Familia FHD
 http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50581
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Horror FHD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Horror FHD
 http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50583
-#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cuentos de la Cripta SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cuentos de la Cripta SD
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50589
