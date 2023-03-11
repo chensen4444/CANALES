@@ -1,10 +1,88 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MX - Discovery Kids" tvg-name="Discovery Kids HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/infantiles/dk.png" group-title="Latinos VIP (Exclusivos)",Discovery Kids HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302625
-#EXTINF:-1 tvg-id="MX - Disney Channel" tvg-name="Disney Channel HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Disney Channel HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302631
-#EXTINF:-1 tvg-id="MX - Disney Junior" tvg-name="DisneyJR HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",DisneyJR HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302632
+#EXTINF:-1, EXITOSA
+http://167.114.173.24:25461/edson2022/edson2022/42876
+#EXTINF:-1, LATINA
+http://167.114.173.24:25461/edson2022/edson2022/42869
+#EXTINF:-1, KARIBEÑA
+https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:-1, AMERICA
+http://167.114.173.24:25461/edson2022/edson2022/42866
+#EXTINF:-1, ATV
+http://167.114.173.24:25461/edson2022/edson2022/42867
+#EXTINF:-1, PANAMERICANA
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1, GLOBAL TV
+http://167.114.173.24:25461/edson2022/edson2022/42870
+#EXTINF:-1, TV PERU NOTICIAS
+http://167.114.173.24:25461/edson2022/edson2022/42872
+#EXTINF:-1, WILAX
+http://167.114.173.24:25461/edson2022/edson2022/42879
+#EXTINF:-1, BEST CABLE
+https://ca2.inka.net.pe/bestcablesports/tracks-v1a1/mono.m3u8
+#EXTINF:-1, DOBLE C
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+#EXTINF:-1, RPP
+http://167.114.173.24:25461/edson2022/edson2022/42877
+#EXTINF:-1, TELECOLOR
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1, MASTER TELEVISISON
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+#EXTINF:-1, PERU MAGICO
+http://167.114.173.24:25461/edson2022/edson2022/42871
+#EXTINF:-1, ANTARES TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1, URANIO TV
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:-1, VIA ALTO MAYO
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1, AUTENTICA TV
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1, CANAL ESTEREO
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lo Que Callamos Las Mujeres SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Lo Que Callamos Las Mujeres SD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/49165
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet FHD (CL*)" tvg-logo="https://img.tvcl.xyz/culturales/animalp.png" group-title="Culturales (Exclusivos)",Animal Planet FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313144
+#EXTINF:-1 tvg-id="" tvg-name="Home and Health FHD (CL*)" tvg-logo="https://i.postimg.cc/HLF5Bvwb/HOME-HEALTH.jpg" group-title="Culturales (Exclusivos)",Home and Health FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313141
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO FHD (CL*)" tvg-logo="http://latinovodplus1.xyz/logos/LATINOS_BAJA/discovery_turbo.png" group-title="Culturales (Exclusivos)",DISCOVERY TURBO FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313138
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World FHD (CL*)" tvg-logo="https://img.tvcl.xyz/culturales/world.png" group-title="Culturales (Exclusivos)",Discovery World FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313131
+#EXTINF:-1 tvg-id="" tvg-name="History 2 FHD (CL*)" tvg-logo="https://img.tvcl.xyz/culturales/h2.png" group-title="Culturales (Exclusivos)",History 2 FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313132
+#EXTINF:-1 tvg-id="" tvg-name="History Channel FHD (CL*)" tvg-logo="https://img.tvcl.xyz/culturales/history.png" group-title="Culturales (Exclusivos)",History Channel FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313133
+#EXTINF:-1 tvg-id="" tvg-name="Discovery ID FHD (CL*)" tvg-logo="http://img.tvcl.xyz/dualaudio/id.png" group-title="Culturales (Exclusivos)",Discovery ID FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313134
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo FHD (CL*)" tvg-logo="" group-title="Culturales (Exclusivos)",Nat Geo FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313135
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Lo Mejor de Donald SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Lo Mejor de Donald SD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50612
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Mickey Mouse" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Mickey Mouse
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/58100
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chapulín Colorado Animado HD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Chapulín Colorado Animado HD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/35516
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bob Esponja HD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Bob Esponja HD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/35517
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom y Jerry SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Tom y Jerry SD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/35484
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Lo Mejor de Mickey SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Lo Mejor de Mickey SD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50613
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pantera Rosa OLD SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Pantera Rosa OLD SD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/34443
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Looney Tunes HD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Looney Tunes HD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/58117
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP El Chavo HD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP El Chavo HD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/58120
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network FHD (CL*)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="Infantiles (Exclusivos)",Cartoon Network FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313150
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids FHD (CL*)" tvg-logo="https://img.tvcl.xyz/infantiles/dk.png" group-title="Infantiles (Exclusivos)",Discovery Kids FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313151
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel FHD (CL*)" tvg-logo="https://img.tvcl.xyz/infantiles/dc.png" group-title="Infantiles (Exclusivos)",Disney Channel FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313152
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon FHD (CL*)" tvg-logo="http://hidra.live:80/images/e2e42a07550863f8b67f5eb252581f6d.png" group-title="Infantiles (Exclusivos)",Nickelodeon FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313153
 #EXTINF:-1 tvg-id="MX - Disney XD" tvg-name="DisneyXD HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",DisneyXD HD (MX VIP)
 http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302633
 #EXTINF:-1 tvg-id="MX - Tooncast" tvg-name="Toon Cast HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Toon Cast HD (MX VIP)
@@ -13,59 +91,75 @@ http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302735
 http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302621
 #EXTINF:-1 tvg-id="" tvg-name="Bitme HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Bitme HD (MX VIP)
 http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302617
-#EXTINF:-1 tvg-id="MX - AMC HD" tvg-name="AMC HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/amc.png" group-title="Latinos VIP (Exclusivos)",AMC HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302605
-#EXTINF:-1 tvg-id="MX - AXN" tvg-name="AXN Series HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/axn.png" group-title="Latinos VIP (Exclusivos)",AXN Series HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302611
-#EXTINF:-1 tvg-id="MX - Cinemax" tvg-name="CineMax HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinemax.png" group-title="Latinos VIP (Exclusivos)",CineMax HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302623
-#EXTINF:-1 tvg-id="MX - Distrito Comedia" tvg-name="Distrito Comedia HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/dc.png" group-title="Latinos VIP (Exclusivos)",Distrito Comedia HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302634
-#EXTINF:-1 tvg-id="" tvg-name="DPelicula HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",DPelicula HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302635
-#EXTINF:-1 tvg-id="MX - FX" tvg-name="FX HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/fx.png" group-title="Latinos VIP (Exclusivos)",FX HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302655
-#EXTINF:-1 tvg-id="" tvg-name="Golden Edge HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/goldene.png" group-title="Latinos VIP (Exclusivos)",Golden Edge HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302657
-#EXTINF:-1 tvg-id="" tvg-name="Golden Mex HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/golden.png" group-title="Latinos VIP (Exclusivos)",Golden Mex HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302658
-#EXTINF:-1 tvg-id="" tvg-name="Golden Plus HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/gplus.png" group-title="Latinos VIP (Exclusivos)",Golden Plus HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302659
-#EXTINF:-1 tvg-id="" tvg-name="Golden Premier HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/golden.png" group-title="Latinos VIP (Exclusivos)",Golden Premier HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302660
-#EXTINF:-1 tvg-id="MX - El Gourmet" tvg-name="Gourmet HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/elgourmet.png" group-title="Latinos VIP (Exclusivos)",Gourmet HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302661
-#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",HBO Mundi HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302663
-#EXTINF:-1 tvg-id="MX - HBO HD" tvg-name="HBO HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",HBO HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302664
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",HBO 2 HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302665
-#EXTINF:-1 tvg-id="" tvg-name="HBO EXTREME HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",HBO EXTREME HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302666
-#EXTINF:-1 tvg-id="MX - HBO Family" tvg-name="HBO Family HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",HBO Family HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302667
-#EXTINF:-1 tvg-id="MX - HBO Plus México" tvg-name="HBO Plus HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",HBO Plus HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302668
-#EXTINF:-1 tvg-id="MX - Comedy Central" tvg-name="Comedy Central HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/comedycentral.png" group-title="Latinos VIP (Exclusivos)",Comedy Central HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302692
-#EXTINF:-1 tvg-id="" tvg-name="Paramount HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/paramount.png" group-title="Latinos VIP (Exclusivos)",Paramount HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302716
-#EXTINF:-1 tvg-id="MX - Sony HD" tvg-name="Sony HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/sonye.png" group-title="Latinos VIP (Exclusivos)",Sony HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302718
-#EXTINF:-1 tvg-id="MX - Space" tvg-name="Space" tvg-logo="https://img.tvcl.xyz/peliculasyseries/space.png" group-title="Latinos VIP (Exclusivos)",Space
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302719
-#EXTINF:-1 tvg-id="" tvg-name="StarTV HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",StarTV HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302720
-#EXTINF:-1 tvg-id="MX - Studio Universal" tvg-name="Studio Universal HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/studiouniversal.png" group-title="Latinos VIP (Exclusivos)",Studio Universal HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302721
-#EXTINF:-1 tvg-id="MX - Syfy" tvg-name="SyFy HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/syfy.png" group-title="Latinos VIP (Exclusivos)",SyFy HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302722
-#EXTINF:-1 tvg-id="MX - TBS" tvg-name="TBS HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/entretencion/tbs.png" group-title="Latinos VIP (Exclusivos)",TBS HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302723
-#EXTINF:-1 tvg-id="MX - TCM" tvg-name="TCM HD (MX VIP)" tvg
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302724
-#EXTINF:-1 tvg-id="MX - TNT HD" tvg-name="TNT HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/tnt.png" group-title="Latinos VIP (Exclusivos)",TNT HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302733
-#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD (MX VIP)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/tntseries.png" group-title="Latinos VIP (Exclusivos)",TNT Series HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302734
+#EXTINF:-1 tvg-id="" tvg-name="AMC  FHD (CL*)" tvg-logo="http://198.255.17.202:58000/zeus/lists/icons/amc.png" group-title="Pelicula y Series (Exclusivos)",AMC  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313033
+#EXTINF:-1 tvg-id="" tvg-name="AXN  FHD (CL*)" tvg-logo="http://hidra.live:80/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="Pelicula y Series (Exclusivos)",AXN  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313034
+#EXTINF:-1 tvg-id="" tvg-name="Cinecanal  FHD (CL*)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/cinecanal.png" group-title="Pelicula y Series (Exclusivos)",Cinecanal  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313035
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax  FHD (CL*)" tvg-logo="http://hidra.live:80/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="Pelicula y Series (Exclusivos)",Cinemax  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313036
+#EXTINF:-1 tvg-id="" tvg-name="DHE FHD (CL*)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/dhe.png" group-title="Pelicula y Series (Exclusivos)",DHE FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313037
+#EXTINF:-1 tvg-id="" tvg-name="FX  FHD (CL*)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/fx.png" group-title="Pelicula y Series (Exclusivos)",FX  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313038
+#EXTINF:-1 tvg-id="" tvg-name="Golden  FHD (CL*)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/golden.png" group-title="Pelicula y Series (Exclusivos)",Golden  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313039
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD (CL*)" tvg-logo="http://img.tvcl.xyz/ppvcine/hbo.png" group-title="Cine Premium (Exclusivos)",HBO FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313040
+#EXTINF:-1 tvg-id="" tvg-name="Paramount  FHD (CL*)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/paramount.png" group-title="Pelicula y Series (Exclusivos)",Paramount  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313041
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL  FHD (CL*)" tvg-logo="" group-title="Pelicula y Series (Exclusivos)",STAR CHANNEL  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313042
+#EXTINF:-1 tvg-id="" tvg-name="Sony  FHD (CL*)" tvg-logo="https://img.tvcl.xyz/usa/sonye.png" group-title="Pelicula y Series (Exclusivos)",Sony  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313043
+#EXTINF:-1 tvg-id="" tvg-name="Space  FHD (CL*)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/space.png" group-title="Pelicula y Series (Exclusivos)",Space  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313044
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal FHD (CL*)" tvg-logo="http://hidra.live:80/images/1c8a2a7c1511c01ee5158ec2ed99b749.png" group-title="Pelicula y Series (Exclusivos)",Studio Universal FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313045
+#EXTINF:-1 tvg-id="" tvg-name="Sun Channel  FHD (CL*)" tvg-logo="" group-title="Pelicula y Series (Exclusivos)",Sun Channel  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313046
+#EXTINF:-1 tvg-id="" tvg-name="TNT  FHD (CL*)" tvg-logo="" group-title="Pelicula y Series (Exclusivos)",TNT  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313047
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series  FHD (CL*)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/tntseries.png" group-title="Pelicula y Series (Exclusivos)",TNT Series  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313048
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL FHD (CL*)" tvg-logo="http://hidra.live:80/images/1c8a2a7c1511c01ee5158ec2ed99b749.png" group-title="Pelicula y Series (Exclusivos)",UNIVERSAL CHANNEL FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313049
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel  FHD (CL*)" tvg-logo="https://img.tvcl.xyz/peliculasyseries/warner.png" group-title="Pelicula y Series (Exclusivos)",Warner Channel  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313050
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family  FHD (CL*)" tvg-logo="https://img.tvcl.xyz/brasil/hbofamily.png" group-title="Cine Premium (Exclusivos)",HBO Family  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313051
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD (CL*)" tvg-logo="https://img.tvcl.xyz/cinepremium/hbo2.png" group-title="Cine Premium (Exclusivos)",HBO 2 FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313052
+#EXTINF:-1 tvg-id="" tvg-name="HBO XTREME  FHD (CL*)" tvg-logo="" group-title="Cine Premium (Exclusivos)",HBO XTREME  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313053
+#EXTINF:-1 tvg-id="" tvg-name="CLOVER  FHD (CL*)" tvg-logo="" group-title="Pelicula y Series (Exclusivos)",CLOVER  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313054
+#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama  FHD (CL*)" tvg-logo="" group-title="Pelicula y Series (Exclusivos)",Kanal D Drama  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313055
+#EXTINF:-1 tvg-id="" tvg-name="A3series  FHD (CL*)" tvg-logo="http://hidra.live:80/images/6a0eb19be3e1cf8931543e7565042b88.png" group-title="Pelicula y Series (Exclusivos)",A3series  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313056
+#EXTINF:-1 tvg-id="" tvg-name="ATRES SERIES  FHD (CL*)" tvg-logo="http://img.tvcl.xyz/internacionales/a3.png" group-title="Pelicula y Series (Exclusivos)",ATRES SERIES  FHD (CL*)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313057
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Accion Classics FHD" tvg-logo="http://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="Canales 24/7",24/7 VIP Cinema Accion Classics FHD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50572
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Horror Classics HD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Horror Classics HD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50574
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Comedia FHD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Comedia FHD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50575
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema DC Comics FHD" tvg-logo="http://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="Canales 24/7",24/7 VIP Cinema DC Comics FHD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50576
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema DC Universe HD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema DC Universe HD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50577
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Disney Family FHD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Disney Family FHD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50578
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Disney Pixar FHD" tvg-logo="http://hidra.live:80/images/3cec07e9ba5f5bb252d13f5f431e4bbb.png" group-title="Canales 24/7",24/7 VIP Cinema Disney Pixar FHD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50579
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Dreamworks FHD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Dreamworks FHD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50580
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Familia FHD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Familia FHD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50581
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Horror FHD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Horror FHD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50583
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cuentos de la Cripta SD" tvg-logo="http://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cuentos de la Cripta SD
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/50589
