@@ -86,11 +86,8 @@ http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313153
 #EXTINF:-1 tvg-id="MX - Disney XD" tvg-name="DisneyXD HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",DisneyXD HD (MX VIP)
 http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302633
 #EXTINF:-1 tvg-id="MX - Tooncast" tvg-name="Toon Cast HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Toon Cast HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302735
-#EXTINF:-1 tvg-id="MX - Cartoon Network" tvg-name="Cartoon Networks HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Cartoon Networks HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302621
-#EXTINF:-1 tvg-id="" tvg-name="Bitme HD (MX VIP)" tvg-logo="" group-title="Latinos VIP (Exclusivos)",Bitme HD (MX VIP)
-http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/302617
+#EXTINF:-1 tvg-id="Canal BitMe" tvg-name="Bitme FHD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/bitme.png" group-title="Infantiles",Bitme FHD (MX)
+http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/34797
 #EXTINF:-1 tvg-id="" tvg-name="AMC  FHD (CL*)" tvg-logo="http://198.255.17.202:58000/zeus/lists/icons/amc.png" group-title="Pelicula y Series (Exclusivos)",AMC  FHD (CL*)
 http://dnsplay.xyz:80/fbwnbjeb/Eb5uc33r5A/313033
 #EXTINF:-1 tvg-id="" tvg-name="AXN  FHD (CL*)" tvg-logo="http://hidra.live:80/images/625fa0bfdb706073072b1d52884d47c6.png" group-title="Pelicula y Series (Exclusivos)",AXN  FHD (CL*)
