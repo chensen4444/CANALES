@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", EXITOSA
+http://flash.shortgod.com/2023prendido/tv1.php?id=5515
+#EXTINF:0 type="stream" channelId="2545", LATINA
+http://flash.shortgod.com/2023prendido/tv1.php?id=2148
+#EXTINF:0 type="stream" channelId="-1", KARIBEÑA
+https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:0 type="stream" channelId="-1", AMERICA
+http://flash.shortgod.com/2023prendido/tv1.php?id=5176
+#EXTINF:0 type="stream" channelId="962", ATV
+http://flash.shortgod.com/2023prendido/tv1.php?id=2160
+#EXTINF:0 type="stream" channelId="-1", PANAMERICANA
+http://flash.shortgod.com/2023prendido/tv1.php?id=2152
+#EXTINF:0 type="stream" channelId="1426", GLOBAL TV
+http://190.108.93.148:8000/play/a0lq/index.m3u8
+#EXTINF:0 type="stream" channelId="2542", TV PERU
+http://flash.shortgod.com/2023prendido/tv1.php?id=2156
+#EXTINF:0 type="stream" channelId="-1", GOL PERU
+http://flash.shortgod.com/2023prendido/tv2.php?id=6&token=ShortGod&file=.m3u8
+#EXTINF:0 type="stream" channelId="-1", BEST SPORT
+https://ca2.inka.net.pe/bestcablesports/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", WILAX
+http://167.114.173.24:25461/edson2022/edson2022/42879
+#EXTINF:0 type="stream" channelId="-1", DOBLE C
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+#EXTINF:0 type="stream" channelId="-1", RPP
+http://167.114.173.24:25461/edson2022/edson2022/42877
+#EXTINF:0 type="stream" channelId="-1", TELECOLOR
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", MASTER TELEVISISON
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", PERU MAGICO
+http://167.114.173.24:25461/edson2022/edson2022/42871
+#EXTINF:0 type="stream" channelId="-1", ANTARES TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", URANIO TV
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", VIA ALTO MAYO
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", AUTENTICA TV
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", CANAL ESTEREO
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1954", LAS ESTRELLAS
+http://flash.shortgod.com/2023prendido/tv1.php?id=2608
+#EXTINF:0 type="stream" channelId="2504", TL NOVELAS
+http://flash.shortgod.com/2023prendido/tv1.php?id=2620
+#EXTINF:0 type="stream" channelId="4661", PASIONES
+http://flash.shortgod.com/2023prendido/tv3.php?id=a07r
+#EXTINF:0 type="stream" channelId="-1", EL DICHO
+http://flash.shortgod.com/2023prendido/tv1.php?id=780
+#EXTINF:0 type="stream" channelId="50", ANIMAL PLANET
+http://flash.shortgod.com/2023prendido/tv1.php?id=609
+#EXTINF:0 type="stream" channelId="3485", HISTORY 2
+http://flash.shortgod.com/2023prendido/tv1.php?id=610
+#EXTINF:0 type="stream" channelId="59", INVESTIGACION DISCOVERY
+http://flash.shortgod.com/2023prendido/tv1.php?id=611
+#EXTINF:0 type="stream" channelId="1418", HGTV
+http://flash.shortgod.com/2023prendido/tv1.php?id=613
+#EXTINF:0 type="stream" channelId="164", NATGEO WILD
+http://flash.shortgod.com/2023prendido/tv1.php?id=614
+#EXTINF:0 type="stream" channelId="310", GOURMET
+http://flash.shortgod.com/2023prendido/tv1.php?id=616
+#EXTINF:0 type="stream" channelId="-1", EL CHAVO
+http://flash.shortgod.com/2023prendido/tv2.php?id=150&token=ShortGod&file=.m3u8
+#EXTINF:0 type="stream" channelId="-1", EL CHAVO ANIMADO
+http://flash.shortgod.com/2023prendido/tv5.php?id=12023
+#EXTINF:0 type="stream" channelId="-1", CORAJE EL PERRO
+http://flash.shortgod.com/2023prendido/tv5.php?id=11067
+#EXTINF:0 type="stream" channelId="-1", TOM Y JERRY
+http://flash.shortgod.com/2023prendido/tv1.php?id=2075
+#EXTINF:0 type="stream" channelId="2505", DISCOVERY KIDS
+http://flash.shortgod.com/2023prendido/tv1.php?id=456
+#EXTINF:0 type="stream" channelId="-1", BITME
+http://flash.shortgod.com/2023prendido/tv2.php?id=131&token=ShortGod&file=.m3u8
+#EXTINF:0 type="stream" channelId="40", CARTOON NETWORK
+http://flash.shortgod.com/2023prendido/tv2.php?id=114&token=ShortGod&file=.m3u8
+#EXTINF:0 type="stream" channelId="2639", TOONCAST
+http://flash.shortgod.com/2023prendido/tv2.php?id=116&token=ShortGod&file=.m3u8
+#EXTINF:0 type="stream" channelId="322", NICK JR
+http://flash.shortgod.com/2023prendido/tv1.php?id=468
+#EXTINF:0 type="stream" channelId="1197", DISCOVERY KIDS
+http://flash.shortgod.com/2023prendido/tv1.php?id=2101
+#EXTINF:0 type="stream" channelId="41", NICKELODEON
+http://flash.shortgod.com/2023prendido/tv9.php?id=Bk6HmHjpSM/2448
+#EXTINF:0 type="stream" channelId="19", DISNEY CHANNEL
+http://flash.shortgod.com/2023prendido/tv9.php?id=Bk6HmHjpSM/2441
+#EXTINF:0 type="stream" channelId="2501", AMC
+http://flash.shortgod.com/2023prendido/tv1.php?id=683
+#EXTINF:0 type="stream" channelId="1573", AXN
+http://flash.shortgod.com/2023prendido/tv1.php?id=734
+#EXTINF:0 type="stream" channelId="64", CINECANAL
+http://flash.shortgod.com/2023prendido/tv1.php?id=702
+#EXTINF:0 type="stream" channelId="1326", CINEMAX
+http://flash.shortgod.com/2023prendido/tv1.php?id=699
+#EXTINF:0 type="stream" channelId="3743", DHE
+http://flash.shortgod.com/2023prendido/tv1.php?id=740
+#EXTINF:0 type="stream" channelId="1303", FX
+http://flash.shortgod.com/2023prendido/tv1.php?id=729
+#EXTINF:0 type="stream" channelId="333", GOLDEN
+http://flash.shortgod.com/2023prendido/tv1.php?id=713
+#EXTINF:0 type="stream" channelId="3765", GOLDEN PLUS
+http://flash.shortgod.com/2023prendido/tv1.php?id=715
+#EXTINF:0 type="stream" channelId="1963", GOLDEN PREMIER
+http://flash.shortgod.com/2023prendido/tv1.php?id=716
+#EXTINF:0 type="stream" channelId="188", SONY
+http://flash.shortgod.com/2023prendido/tv1.php?id=725
+#EXTINF:0 type="stream" channelId="383", SPACE
+http://flash.shortgod.com/2023prendido/tv1.php?id=690
+#EXTINF:0 type="stream" channelId="2625", STUDIO UNIVERSAL
+http://flash.shortgod.com/2023prendido/tv1.php?id=221
+#EXTINF:0 type="stream" channelId="1052", TNT
+http://flash.shortgod.com/2023prendido/tv1.php?id=721
+#EXTINF:0 type="stream" channelId="2684", TNT SERIE
+http://flash.shortgod.com/2023prendido/tv1.php?id=712
+#EXTINF:0 type="stream" channelId="187", UNIVERSAL CHANNEL
+http://flash.shortgod.com/2023prendido/tv1.php?id=222
+#EXTINF:0 type="stream" channelId="2903", WARNER
+http://flash.shortgod.com/2023prendido/tv1.php?id=687
+#EXTINF:0 type="stream" channelId="1330", HBO
+http://flash.shortgod.com/2023prendido/tv1.php?id=1561
+#EXTINF:0 type="stream" channelId="935", HBO 2
+http://flash.shortgod.com/2023prendido/tv1.php?id=386
+#EXTINF:0 type="stream" channelId="2584", HBO FAMILY
+http://flash.shortgod.com/2023prendido/tv1.php?id=384
+#EXTINF:0 type="stream" channelId="2587", HBO XTREME
+http://flash.shortgod.com/2023prendido/tv1.php?id=1557
+#EXTINF:0 type="stream" channelId="1719", PARAMOUNT
+http://flash.shortgod.com/2023prendido/tv1.php?id=693
+#EXTINF:0 type="stream" channelId="1190", COMEDY CENTRAL
+http://flash.shortgod.com/2023prendido/tv1.php?id=2621
+#EXTINF:0 type="stream" channelId="73", SYFY
+http://flash.shortgod.com/2023prendido/tv1.php?id=739
+#EXTINF:0 type="stream" channelId="292", MULTIPREMIER
+http://flash.shortgod.com/2023prendido/tv2.php?id=81&token=ShortGod&file=.m3u8
+#EXTINF:0 type="stream" channelId="-1", TERROR 24/7
+http://flash.shortgod.com/2023prendido/tv2.php?id=196&token=ShortGod&file=.m3u8
+#EXTINF:0 type="stream" channelId="2169", CINE CLUB
+http://flash.shortgod.com/2023prendido/tv4.php?id=1147993
+#EXTINF:0 type="stream" channelId="1200", LIFETIME
+http://flash.shortgod.com/2023prendido/tv2.php?id=104&token=ShortGod&file=.m3u8
+#EXTINF:0 type="stream" channelId="3228", TBS
+http://flash.shortgod.com/2023prendido/tv2.php?id=105&token=ShortGod&file=.m3u8
+#EXTINF:0 type="stream" channelId="2111", UNIMAS
+http://flash.shortgod.com/2023prendido/tv2.php?id=64&token=ShortGod&file=.m3u8
+#EXTINF:0 type="stream" channelId="1287", STAR CHANNEL
+http://flash.shortgod.com/2023prendido/tv3.php?id=a04c
+#EXTINF:0 type="stream" channelId="1856", STAR ACCION
+http://flash.shortgod.com/2023prendido/tv2.php?id=37&token=ShortGod&file=.m3u8
+#EXTINF:0 type="stream" channelId="134", DEPELICULA
+http://flash.shortgod.com/2023prendido/tv2.php?id=370&token=ShortGod&file=.m3u8
+#EXTINF:0 type="stream" channelId="1329", SPORT 1
+http://flash.shortgod.com/2023prendido/tv1.php?id=51
+#EXTINF:0 type="stream" channelId="170", FOX SPORT 2
+http://flash.shortgod.com/2023prendido/tv6.php?id=a01r
+#EXTINF:0 type="stream" channelId="180", FOX SPORT 3
+http://flash.shortgod.com/2023prendido/tv6.php?id=a01s
