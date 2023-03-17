@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", KARIBEÑA
+https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="PE: America" logo="http://s3.i3ns.net/portal/picon/2021-08/be54d5b87fe43de45b15ba2e0c7cecde.png" tvg-country="pe",  America
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/8983
+#EXTINF:0 type="stream" channelId="962" name="PE: ATV" logo="http://s3.i3ns.net/portal/picon/2022-06/03bb8b8c5275c1ac903d1c5b0b21a141.png" tvg-country="pe",  ATV
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/296303
+#EXTINF:0 type="stream" channelId="1956" name="PE: Panamericana TV" logo="http://s3.i3ns.net/portal/picon/2021-08/794111f87c2de5afbc9278a42cfd0049.png" tvg-country="pe",  Panamericana TV
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/3173
+#EXTINF:0 type="stream" channelId="-1" name="PE: Canal IPE" logo="http://s3.i3ns.net/portal/picon/2022-04/b7331d7353db2bfe51f80b49f57c3c6b.png" tvg-country="pe",  Canal IPE
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9003
+#EXTINF:0 type="stream" channelId="-1" name="PE: Canal N" logo="http://s3.i3ns.net/portal/picon/2021-08/2576b879b0e677e8f069084e4cbf6f2a.png" tvg-country="pe",  Canal N
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/8984
+#EXTINF:0 type="stream" channelId="1426", GLOBAL TV
+http://190.108.93.148:8000/play/a0lq/index.m3u8
+#EXTINF:0 type="stream" channelId="1251" name="PE: Capital TV" logo="http://s3.i3ns.net/portal/picon/2022-08/9fcedd0dfeebfe4a6652b3305b66301d.png" tvg-country="pe",  Capital TV
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/46587
+#EXTINF:0 type="stream" channelId="-1" name="PE: Clips TV" logo="http://s3.i3ns.net/portal/picon/2022-05/19e405dc8c8b428b420a5df91c353005.jfif" tvg-country="pe",  Clips TV
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/295810
+#EXTINF:0 type="stream" channelId="2540" name="PE: ESPN" logo="http://s3.i3ns.net/portal/picon/2022-04/9a74a744a38f95d26aaff9e72dde2894.png" tvg-country="pe",  ESPN
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/295657
+#EXTINF:0 type="stream" channelId="344" name="PE: ESPN 2" logo="http://s3.i3ns.net/portal/picon/2022-04/5a99fc538e2a9b20763af4a26e7141a3.png" tvg-country="pe",  ESPN 2
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/295656
+#EXTINF:0 type="stream" channelId="2324" name="PE: Latele" logo="http://s3.i3ns.net/portal/picon/2022-04/09a278ee847f46fc4246be5961088ac7.jpg" tvg-country="pe",  Latele
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9002
+#EXTINF:0 type="stream" channelId="-1" name="PE: Oxigeno" logo="http://s3.i3ns.net/portal/picon/2022-03/fa2a1093a13b0fe766671fd7566c36a5.jpg" tvg-country="pe",  Oxigeno
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/6941
+#EXTINF:0 type="stream" channelId="-1" name="PE: Peru Channel" logo="http://s3.i3ns.net/portal/picon/2022-05/e5426e7209a9a2edec224bb0b074df3f.png" tvg-country="pe",  Peru Channel
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/286181
+#EXTINF:0 type="stream" channelId="-1", BEST SPORT
+https://ca2.inka.net.pe/bestcablesports/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", WILAX
+http://167.114.173.24:25461/edson2022/edson2022/42879
+#EXTINF:0 type="stream" channelId="-1", DOBLE C
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+#EXTINF:0 type="stream" channelId="-1", TELECOLOR
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", MASTER TELEVISISON
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", PERU MAGICO
+http://167.114.173.24:25461/edson2022/edson2022/42871
+#EXTINF:0 type="stream" channelId="-1", ANTARES TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", URANIO TV
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", VIA ALTO MAYO
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", AUTENTICA TV
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", CANAL ESTEREO
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="PE: RPP Noticias Piura" group="Peru" logo="http://s3.i3ns.net/portal/picon/2021-08/f0653ed22eadda3cf981dca7aa4d3d47.png" tvg-country="pe",  RPP Noticias Piura
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/166937
+#EXTINF:0 type="stream" channelId="2542" name="PE: TV Peru" logo="http://s3.i3ns.net/portal/picon/2021-08/cd85a133eb9630e338521cf0b3f297b1.png" tvg-country="pe",  TV Peru
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/8986
+#EXTINF:0 type="stream" channelId="-1" name="PE: TV Peru Noticias" logo="http://s3.i3ns.net/portal/picon/2022-04/9fbb95c90f3e412b5b973ebe8f293c26.png" tvg-country="pe",  TV Peru Noticias
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/283998
+#EXTINF:0 type="stream" channelId="-1" name="PE: Wow TV" logo="http://s3.i3ns.net/portal/picon/2022-05/5d1697143b9cc5d12e38e6cdf5e24f6c.jfif" tvg-country="pe",  Wow TV
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/294872
+#EXTINF:0 type="stream" channelId="-1" name="*MX | TELENOVELAS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png", TELENOVELAS
+http://flash.shortgod.com/perualmando/tv1.php?id=2620
+#EXTINF:0 type="stream" channelId="-1" name="MX: Las Estrellas México" logo="http://s3.i3ns.net/portal/picon/2021-07/be65fcb335b137f9bbcf867472dafea9.png" tvg-country="mx",  Las Estrellas 
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/3005
+#EXTINF:0 type="stream" channelId="1964" name="MX: Telehit Musica" logo="http://s3.i3ns.net/portal/picon/2021-07/ddd07a323bd82e3c8ce03f30dba9c97f.png" tvg-country="mx",  Telehit Musica
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/31785
+#EXTINF:0 type="stream" channelId="2146" name="MX: Teleritmo" logo="http://s3.i3ns.net/portal/picon/2022-03/655850066c36955259a174c81dcf7f14.png" tvg-country="mx",  Teleritmo
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9066
+#EXTINF:0 type="stream" channelId="-1" name="MX: Discovery H&H" logo="http://s3.i3ns.net/portal/picon/2022-05/e1131d9d1ec94f7e88e34842801790d5.png" tvg-country="mx",  Discovery H&H
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9110
+#EXTINF:0 type="stream" channelId="56" name="MX: NAT GEO" logo="http://s3.i3ns.net/portal/picon/2021-07/ec252b9c1be69a68011aa7653391d25c.png" tvg-country="mx",  NAT GEO
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/8725
+#EXTINF:0 type="stream" channelId="164" name="MX: NAT GEO Wild" logo="http://s3.i3ns.net/portal/picon/2022-03/c9a82319842abff334dec0a59ef9c3c1.png" tvg-country="mx",  NAT GEO Wild
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9072
+#EXTINF:0 type="stream" channelId="-1" name="MX: BitMe" logo="http://s3.i3ns.net/portal/picon/2021-07/d09e68cd4fec58ea4c23bc22e4047b26.png" tvg-country="mx",  BitMe
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/47946
+#EXTINF:0 type="stream" channelId="41" name="MX: nickelodeon" logo="http://s3.i3ns.net/portal/picon/2021-09/ffe70df63cfe2611a5b1b5fa96984394.png" tvg-country="mx",  nickelodeon
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9085
+#EXTINF:0 type="stream" channelId="19" name="MX: Disney Channel" logo="http://s3.i3ns.net/portal/picon/2021-07/80b12d75191338a0152e9a307ddac20c.png" tvg-country="mx",  Disney Channel
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9086
+#EXTINF:0 type="stream" channelId="1197" name="MX: Disney Junior" logo="http://s3.i3ns.net/portal/picon/2021-07/b5069c173bae240c9ed582b2cc41caf7.png" tvg-country="mx",  Disney Junior
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9042
+#EXTINF:0 type="stream" channelId="383" name="MX: Space" logo="http://s3.i3ns.net/portal/picon/2021-11/549b218ccc0286cc02c95fb60ec9b9c6.jpg" tvg-country="mx",  Space
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9136
+#EXTINF:0 type="stream" channelId="2625" name="MX: Studio Universal" logo="http://s3.i3ns.net/portal/picon/2021-09/c535ec7844849371e43f872e6337a472.png" tvg-country="mx",  Studio Universal
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9071
+#EXTINF:0 type="stream" channelId="73" name="MX: SYFY" logo="http://s3.i3ns.net/portal/picon/2021-07/fcefd652cedee1c107acd5ff08569ebc.png" tvg-country="mx",  SYFY
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9081
+#EXTINF:0 type="stream" channelId="895" name="MX: TCM" logo="http://s3.i3ns.net/portal/picon/2021-07/1b950d84f4cca742c18c7b61128e44d7.png" tvg-country="mx",  TCM
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9131
+#EXTINF:0 type="stream" channelId="2686" name="MX: TNT Series" logo="http://s3.i3ns.net/portal/picon/2021-09/2d31036601046a0b55481cce7da5f81d.png" tvg-country="mx",  TNT Series
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9139
+#EXTINF:0 type="stream" channelId="2557" name="MX: Warner TV" logo="http://s3.i3ns.net/portal/picon/2021-07/a82db4330339db82492965b7c1988734.png" tvg-country="mx",  Warner TV
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9142
+#EXTINF:0 type="stream" channelId="1573" name="MX: AXN" logo="http://s3.i3ns.net/portal/picon/2021-07/2cca840e4f54f73b09a45657f2595507.png" tvg-country="mx",  AXN
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9138
+#EXTINF:0 type="stream" channelId="3727" name="MX: Az Cinema" logo="http://s3.i3ns.net/portal/picon/2021-07/dae89e688e6ba755b1e478acffb54190.png" tvg-country="mx",  Az Cinema
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9108
+#EXTINF:0 type="stream" channelId="64" name="MX: Cinecanal" logo="http://s3.i3ns.net/portal/picon/2021-09/3c3bec641194b6d636508a46f57676bd.png" tvg-country="mx",  Cinecanal
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9128
+#EXTINF:0 type="stream" channelId="1326" name="MX: Cinemax" logo="http://s3.i3ns.net/portal/picon/2021-07/0625bacc899385658081029dbad58bea.png" tvg-country="mx",  Cinemax
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9080
+#EXTINF:0 type="stream" channelId="-1" name="MX: Claro Cinema" logo="http://s3.i3ns.net/portal/picon/2021-07/e1dfd6f5ef14ff570838c7117824342c.png" tvg-country="mx",  Claro Cinema
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/8706
+#EXTINF:0 type="stream" channelId="1952" name="MX: De Pelicula" logo="http://s3.i3ns.net/portal/picon/2022-05/0c7cbb69876963d368d6d8249aef2409.png" tvg-country="mx",  De Pelicula
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/31740
+#EXTINF:0 type="stream" channelId="1961" name="MX: Distrito Comedia" logo="http://s3.i3ns.net/portal/picon/2022-05/9571a3fe48be02335097c60e890617a4.png" tvg-country="mx",  Distrito Comedia
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9126
+#EXTINF:0 type="stream" channelId="3763" name="MX: Glitz" logo="http://s3.i3ns.net/portal/picon/2021-07/8ae7fc579a89a3e135c34e8d968fdf59.png" tvg-country="mx",  Glitz
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9125
+#EXTINF:0 type="stream" channelId="2502" name="MX: Golden Edge" logo="http://s3.i3ns.net/portal/picon/2021-07/31627ce18ed4c1315831d876d8fb84d7.png" tvg-country="mx",  Golden Edge
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9076
+#EXTINF:0 type="stream" channelId="1963" name="MX: Golden Premier" logo="http://s3.i3ns.net/portal/picon/2021-07/3259e1f443c20457eaa5e0c34852d23c.png" tvg-country="mx",  Golden Premier
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/3052
+#EXTINF:0 type="stream" channelId="1418" name="MX: HGTV" logo="http://s3.i3ns.net/portal/picon/2021-12/7510a9b10984936053e620479b391ff5.png" tvg-country="mx",  HGTV
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/187048
+#EXTINF:0 type="stream" channelId="1328" name="MX: FOX SPORTS" logo="http://s3.i3ns.net/portal/picon/2022-02/c57450114a42c0d62ab0e938d40cf0b2.jpg" tvg-country="mx",  FOX SPORTS
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/10925
+#EXTINF:0 type="stream" channelId="170" name="MX: FOX SPORTS 2" logo="http://s3.i3ns.net/portal/picon/2021-12/4860d5094856c80be9a0e80d4e3ea61b.jpg" tvg-country="mx",  FOX SPORTS 2
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/3043
+#EXTINF:0 type="stream" channelId="180" name="MX: FOX SPORTS 3" logo="http://s3.i3ns.net/portal/picon/2021-12/1a4f7efe2244027b516ad0c5bb0319a0.png" tvg-country="mx",  FOX SPORTS 3
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/3044
+#EXTINF:0 type="stream" channelId="2540" name="MX: ESPN" logo="http://s3.i3ns.net/portal/picon/2021-07/fef20f5cb1951c51371fc68e1eb0a32c.png" tvg-country="mx",  ESPN
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9070
+#EXTINF:0 type="stream" channelId="355" name="MX: ESPN 3" logo="http://s3.i3ns.net/portal/picon/2021-07/d5d65be98111905704b0ebcd7d06e3bd.png" tvg-country="mx",  ESPN 3
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/38603
+#EXTINF:0 type="stream" channelId="4657" name="MX: ESPN Extra" logo="http://s3.i3ns.net/portal/picon/2021-07/c47d68dc2974632c15a07f4a6714854d.png" tvg-country="mx",  ESPN Extra
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/38607
+#EXTINF:0 type="stream" channelId="326" name="MX: Europa Europa" logo="http://s3.i3ns.net/portal/picon/2021-07/7d8a7af6396e12a8262d492c16939a5b.png" tvg-country="mx",  Europa Europa
+http://iptvtree.net:8080/ace2524d/3fdc8fcf19/9130
