@@ -6,23 +6,27 @@ https://live-latinav2-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/
 #EXTINF:0 type="stream" channelId="-1" name="Exitosa" logo="https://www.iptvgratis.cl/logocanal/exitosatv.jpg", Exitosa * | PE
 https://cu.onliv3.com/livevd1/user2.m3u8
 #EXTINF:0 type="stream" channelId="4792" name="PE: America" logo="http://s3.i3ns.net/portal/picon/2021-08/be54d5b87fe43de45b15ba2e0c7cecde.png" tvg-country="pe", America
-http://soberon.us:25461/m0nk/n3w/459
+https://mdstrm.com/live-stream-playlist/6099b04d9418ac082441dd74.m3u8?uid=91Pg708WUr8Ra7aMkesyQ3yLehJKa88G&sid=nqNGbrA6GiphaKcvfRmE3ePaI18ncrvy&pid=ll1ugIdjhb4jitKCkuMUey4dFlGvXl2e&an=screen&at=web-app&av=v5.2.327&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&res=1349x759&without_cookies=false&listenerid=&dnt=true&access_token=YQQTF1kJc3l6wvuLk34clLYL9Y9PZCSJiHb6gj6L7VhqsxrVpskbNlRFKN6gs9k0dbRj2RGohiI
 #EXTINF:0 type="stream" channelId="962" name="PE: ATV" logo="http://s3.i3ns.net/portal/picon/2022-06/03bb8b8c5275c1ac903d1c5b0b21a141.png" tvg-country="pe", ATV
 http://soberon.us:25461/m0nk/n3w/460
 #EXTINF:0 type="stream" channelId="2549", ATV PLUS
 http://soberon.us:25461/m0nk/n3w/472
-#EXTINF:0 type="stream" channelId="1956" name="PE: Panamericana TV" logo="http://s3.i3ns.net/portal/picon/2021-08/794111f87c2de5afbc9278a42cfd0049.png" tvg-country="pe", Panamericana TV
-http://soberon.us:25461/m0nk/n3w/462
 #EXTINF:0 type="stream" channelId="1426", GLOBAL TV
-http://190.108.93.148:8000/play/a0lq/index.m3u8
+http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1115813
 #EXTINF:0 type="stream" channelId="-1", WILAX
 http://167.114.173.24:25461/edson2022/edson2022/42879
+#EXTINF:0 type="stream" channelId="1956" name="PE: Panamericana TV" logo="http://s3.i3ns.net/portal/picon/2021-08/794111f87c2de5afbc9278a42cfd0049.png" tvg-country="pe", Panamericana TV
+http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/22624
 #EXTINF:0 type="stream" channelId="2542" name="PE: TV Peru" logo="http://s3.i3ns.net/portal/picon/2021-08/cd85a133eb9630e338521cf0b3f297b1.png" tvg-country="pe", TV Peru
 http://soberon.us:25461/m0nk/n3w/468
 #EXTINF:0 type="stream" channelId="-1" name="PE: TV Peru Noticias" logo="http://s3.i3ns.net/portal/picon/2022-04/9fbb95c90f3e412b5b973ebe8f293c26.png" tvg-country="pe", TV Peru Noticias
 http://soberon.us:25461/m0nk/n3w/469
 #EXTINF:0 type="stream" channelId="-1" name="DMJ" logo="https://www.iptvgratis.cl/logocanal/dmj.png", DMJ * | PE
 https://v4.tustreaming.cl:/s1tv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", BEST CABLE
+https://ca2.inka.net.pe/NoRobar-BesTv-001120000/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", BEST MUSIC
+https://ca2.inka.net.pe/NoRobar-Music-001120/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1", DOBLE C
 https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 #EXTINF:0 type="stream" channelId="-1", TELECOLOR
@@ -49,35 +53,59 @@ http://soberon.us:25461/m0nk/n3w/155
 http://soberon.us:25461/m0nk/n3w/61
 #EXTINF:0 type="stream" channelId="388" name="Latino | Unicable", Latino | Unicable
 http://soberon.us:25461/m0nk/n3w/173
-#EXTINF:0 type="stream" channelId="-1" name="24/7 | ROSA DE GUADALUPE", 24/7 | ROSA DE GUADALUPE
-http://soberon.us:25461/m0nk/n3w/3544
+#EXTINF:0 type="stream" channelId="-1" name="24/7||| Rosa de Guadalupe Vip" logo="https://laverdadnoticias.com/__export/1618262918409/sites/laverdad/img/2021/04/12/episodios_virales_de_la_rosa_de_guadalupe.jpg_1103261758.jpg", 24/7||| Rosa de Guadalupe Vip
+http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1371951
+#EXTINF:0 type="stream" channelId="-1" name="24/7 | LO QUE CALLAMOS LAS MUJERES HD" group="24/7 MOVIE TIME (SD Y HD)" logo="http://teamnextlevel.xyz:25461/images/bede38b63df946871427d27ff6492a37.png", 24/7 | LO QUE CALLAMOS LAS MUJERES HD
+http://go-nextlevel.xyz:25461/Valentin/Valentin/230059
 #EXTINF:0 type="stream" channelId="1964" name="MX: Telehit Musica" logo="http://s3.i3ns.net/portal/picon/2021-07/ddd07a323bd82e3c8ce03f30dba9c97f.png" tvg-country="mx", Telehit Musica
 http://soberon.us:25461/m0nk/n3w/153
-#EXTINF:0 type="stream" channelId="2724" name="MX: Discovery H&H" logo="http://s3.i3ns.net/portal/picon/2022-05/e1131d9d1ec94f7e88e34842801790d5.png" tvg-country="mx", Discovery H&H
-http://soberon.us:25461/m0nk/n3w/74
+#EXTINF:0 type="stream" channelId="-1" name="MUSIC | Sexy Kpop TV | BR" logo="https://lh3.googleusercontent.com/-_mVYIdXLYWQ/YGuFFxxUHFI/AAAAAAABBOo/1u_EVaReRtY31sRUcng-usb7bVQ9krgKwCK8BGAsYHg/s512/2021-04-05.jpg", MUSIC | Sexy Kpop TV | BR
+https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="MUSIC | The Retro Channel | PR" logo="https://lh3.googleusercontent.com/-2UEnkgDLK5U/YF8mPyKQ4dI/AAAAAAABA_M/TAGtmHfbRZwax3VsZ5bs861v4NaitIXLgCK8BGAsYHg/s512/2021-03-27.png", MUSIC | The Retro Channel | PR
+http://soberon.us:25461/m0nk/n3w/3643
+#EXTINF:0 type="stream" channelId="3334" name="MUSIC | RCKTV * | CL" logo="https://i2.paste.pics/b4e09c1315da8b38ccb2e308519cbda1.png", MUSIC | RCKTV * | CL
+http://soberon.us:25461/m0nk/n3w/3624
+#EXTINF:0 type="stream" channelId="2840" name="LATINO FHD : DISCOVERY TURBO", LATINO FHD : DISCOVERY TURBO
+http://soberon.us:25461/m0nk/n3w/3130
 #EXTINF:0 type="stream" channelId="240" name="LATINO FHD : ANIMAL PLANET", LATINO FHD : ANIMAL PLANET
 http://soberon.us:25461/m0nk/n3w/3131
-#EXTINF:0 type="stream" channelId="56" name="MX: NAT GEO" logo="http://s3.i3ns.net/portal/picon/2021-07/ec252b9c1be69a68011aa7653391d25c.png" tvg-country="mx", NAT GEO
-http://soberon.us:25461/m0nk/n3w/135
-#EXTINF:0 type="stream" channelId="164" name="MX: NAT GEO Wild" logo="http://s3.i3ns.net/portal/picon/2022-03/c9a82319842abff334dec0a59ef9c3c1.png" tvg-country="mx", NAT GEO Wild
-http://soberon.us:25461/m0nk/n3w/134
-#EXTINF:0 type="stream" channelId="-1" name="24/7 CAR | Looney Tunes", COYOTE Y CORRECAMINOS
-http://soberon.us:25461/m0nk/n3w/3550
-#EXTINF:0 type="stream" channelId="2639" name="Latino | Tooncast", Latino | Tooncast
-http://soberon.us:25461/m0nk/n3w/158
+#EXTINF:0 type="stream" channelId="57" name="LATINO FHD : DISCOVERY CHANNEL", LATINO FHD : DISCOVERY CHANNEL
+http://soberon.us:25461/m0nk/n3w/3132
+#EXTINF:0 type="stream" channelId="1418" name="LATINO FHD : HGTV", LATINO FHD : HGTV
+http://soberon.us:25461/m0nk/n3w/3133
+#EXTINF:0 type="stream" channelId="4586" name="LATINO FHD : DISCOVERY FAMILIA", LATINO FHD : DISCOVERY FAMILIA
+http://soberon.us:25461/m0nk/n3w/3134
+#EXTINF:0 type="stream" channelId="2724" name="LATINO FHD : DISCOVERY H&H", LATINO FHD : DISCOVERY H&H
+http://soberon.us:25461/m0nk/n3w/3135
+#EXTINF:0 type="stream" channelId="2558" name="LATINO FHD : DISCOVERY THEATHER", LATINO FHD : DISCOVERY THEATHER
+http://soberon.us:25461/m0nk/n3w/3137
+#EXTINF:0 type="stream" channelId="-1" name="*24/7 Bob Esponja", *24/7 Bob Esponja
+http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1367457
+#EXTINF:0 type="stream" channelId="-1" logo="https://http2.mlstatic.com/pin-conmemorativo-coraje-el-perro-cobarde-cartoon-network-D_NQ_NP_640899-MLM31351314637_072019-F.jpg", COBARDE EL PERRO
+http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1116186
+#EXTINF:0 type="stream" channelId="-1" name="24/7|| El Chavo Animado" logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/El_Chavo_Animado_-_logo.svg/1200px-El_Chavo_Animado_-_logo.svg.png", 24/7|| El Chavo Animado
+http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/61888
 #EXTINF:0 type="stream" channelId="2719" name="Latino | Cartoon Network", Latino | Cartoon Network
 http://soberon.us:25461/m0nk/n3w/63
+#EXTINF:0 type="stream" channelId="1197", Disney Junior
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/221
+#EXTINF:0 type="stream" channelId="2639", TOONCAST
+http://kuchini.site:8080/Jonsno/i58CQF2j3yk5UkOU/3091
 #EXTINF:0 type="stream" channelId="41" name="MX: nickelodeon" logo="http://s3.i3ns.net/portal/picon/2021-09/ffe70df63cfe2611a5b1b5fa96984394.png" tvg-country="mx", nickelodeon
 http://soberon.us:25461/m0nk/n3w/765
 #EXTINF:0 type="stream" channelId="19" name="MX: Disney Channel" logo="http://s3.i3ns.net/portal/picon/2021-07/80b12d75191338a0152e9a307ddac20c.png" tvg-country="mx", Disney Channel
 http://soberon.us:25461/m0nk/n3w/82
-#EXTINF:0 type="stream" channelId="1197" name="MX: Disney Junior" logo="http://s3.i3ns.net/portal/picon/2021-07/b5069c173bae240c9ed582b2cc41caf7.png" tvg-country="mx", Disney Junior
-http://soberon.us:25461/m0nk/n3w/83
+#EXTINF:0 type="stream" channelId="-1" name="IZMX | bitME" group="CANALES (IZZI) MX" logo="http://teamnextlevel.xyz:25461/images/fce8d3a065fbb21ab498acf4d30d863a.jpeg", IZMX | bitME
+http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1165166
+#EXTINF:0 type="stream" channelId="292", MULTIPREMIER
+http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/19436
 #EXTINF:0 type="stream" channelId="383" name="MX: Space" logo="http://s3.i3ns.net/portal/picon/2021-11/549b218ccc0286cc02c95fb60ec9b9c6.jpg" tvg-country="mx", Space
-http://soberon.us:25461/m0nk/n3w/144
+http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/19340
 #EXTINF:0 type="stream" channelId="530" name="Latino | Sony", Latino | Sony
 http://soberon.us:25461/m0nk/n3w/143
 #EXTINF:0 type="stream" channelId="208" name="Latino | FOX", Latino | FOX
+http://soberon.us:25461/m0nk/n3w/111
+#EXTINF:0 type="stream" channelId="1287", STAR CHANNEL
 http://soberon.us:25461/m0nk/n3w/97
 #EXTINF:0 type="stream" channelId="3317" name="Latino | Universal Channel", Latino | Universal Channel
 http://soberon.us:25461/m0nk/n3w/175
@@ -87,6 +115,8 @@ http://soberon.us:25461/m0nk/n3w/99
 http://soberon.us:25461/m0nk/n3w/101
 #EXTINF:0 type="stream" channelId="187" name="Latino | Universal Premier", Latino | Universal Premier
 http://soberon.us:25461/m0nk/n3w/103
+#EXTINF:0 type="stream" channelId="2250" name="LATINO FHD : FOX COMEDY (STAR COMEDY)", LATINO FHD : FOX COMEDY (STAR COMEDY)
+http://soberon.us:25461/m0nk/n3w/3139
 #EXTINF:0 type="stream" channelId="3227" name="Latino | Starz Encore", Latino | Starz Encore
 http://soberon.us:25461/m0nk/n3w/146
 #EXTINF:0 type="stream" channelId="1192" name="Latino | SyFy", Latino | SyFy
@@ -97,24 +127,78 @@ http://soberon.us:25461/m0nk/n3w/64
 http://soberon.us:25461/m0nk/n3w/65
 #EXTINF:0 type="stream" channelId="3228" name="Latino | TBS", Latino | TBS
 http://soberon.us:25461/m0nk/n3w/150
+#EXTINF:0 type="stream" channelId="3545" name="Latino | TCM", Latino | TCM
+http://soberon.us:25461/m0nk/n3w/151
+#EXTINF:0 type="stream" channelId="3226" name="Latino | Starz", Latino | Starz
+http://soberon.us:25461/m0nk/n3w/145
 #EXTINF:0 type="stream" channelId="2246" name="Latino | AXN", Latino | AXN
 http://soberon.us:25461/m0nk/n3w/47
 #EXTINF:0 type="stream" channelId="3131" name="Latino | AXN White", Latino | AXN White
 http://soberon.us:25461/m0nk/n3w/48
 #EXTINF:0 type="stream" channelId="3727" name="Latino | AZ Cinema", Latino | AZ Cinema
 http://soberon.us:25461/m0nk/n3w/50
-#EXTINF:0 type="stream" channelId="3545" name="Latino | TCM", Latino | TCM
-http://soberon.us:25461/m0nk/n3w/151
 #EXTINF:0 type="stream" channelId="1961" name="Latino | Distrito Comedia", Latino | Distrito Comedia
 http://soberon.us:25461/m0nk/n3w/85
 #EXTINF:0 type="stream" channelId="1497" name="LATINO | Paramount", LATINO | Paramount
 http://soberon.us:25461/m0nk/n3w/1141
 #EXTINF:0 type="stream" channelId="2501" name="Latino | AMC", Latino | AMC
 http://soberon.us:25461/m0nk/n3w/44
+#EXTINF:0 type="stream" channelId="1052" name="Latino | TNT", Latino | TNT
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/252
 #EXTINF:0 type="stream" channelId="2685" name="Latino | TNT Series", Latino | TNT Series
 http://soberon.us:25461/m0nk/n3w/157
 #EXTINF:0 type="stream" channelId="2903" name="Latino | Warner", Latino | Warner
 http://soberon.us:25461/m0nk/n3w/178
+#EXTINF:0 type="stream" channelId="333" name="MX ||| GOLDEN HD", MX ||| GOLDEN HD
+http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1202276
+#EXTINF:0 type="stream" channelId="2502" name="Latino | Golden EDGE", Latino | Golden EDGE
+http://soberon.us:25461/m0nk/n3w/116
+#EXTINF:0 type="stream" channelId="3765" name="Latino | Golden Plus", Latino | Golden Plus
+http://soberon.us:25461/m0nk/n3w/117
+#EXTINF:0 type="stream" channelId="1963" name="LATINO | GOLDEN PREMIER", LATINO | GOLDEN PREMIER
+http://soberon.us:25461/m0nk/n3w/756
+#EXTINF:0 type="stream" channelId="1330" name="LATINO FHD : HBO", LATINO FHD : HBO
+http://soberon.us:25461/m0nk/n3w/3145
+#EXTINF:0 type="stream" channelId="935" name="LATINO FHD : HBO 2", LATINO FHD : HBO 2
+http://soberon.us:25461/m0nk/n3w/3146
+#EXTINF:0 type="stream" channelId="2584" name="LATINO FHD : HBO FAMILY", LATINO FHD : HBO FAMILY
+http://soberon.us:25461/m0nk/n3w/3147
+#EXTINF:0 type="stream" channelId="2725" name="LATINO FHD : HBO MUNDI", LATINO FHD : HBO MUNDI
+http://soberon.us:25461/m0nk/n3w/3148
+#EXTINF:0 type="stream" channelId="361" name="LATINO FHD : HBO POP", LATINO FHD : HBO POP
+http://soberon.us:25461/m0nk/n3w/3149
+#EXTINF:0 type="stream" channelId="2583" name="LATINO FHD : HBO SIGNATURE", LATINO FHD : HBO SIGNATURE
+http://soberon.us:25461/m0nk/n3w/3150
+#EXTINF:0 type="stream" channelId="2585" name="LATINO FHD : HBO PLUS", LATINO FHD : HBO PLUS
+http://soberon.us:25461/m0nk/n3w/3151
+#EXTINF:0 type="stream" channelId="2587" name="LATINO FHD : HBO XTREME", LATINO FHD : HBO XTREME
+http://soberon.us:25461/m0nk/n3w/3152
+#EXTINF:0 type="stream" channelId="-1" name="24/7| Play! Cinema Artes Marciales", 24/7| Play! Cinema Artes Marciales
+http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1163435
+#EXTINF:0 type="stream" channelId="-1" name="USA | Cinema Happy Madisson HD", USA | Cinema Happy Madisson HD
+http://soberon.us:25461/m0nk/n3w/3021
+#EXTINF:0 type="stream" channelId="-1" name="USA | Cinema Accion Classics HD", USA | Cinema Accion Classics HD
+http://soberon.us:25461/m0nk/n3w/3024
+#EXTINF:0 type="stream" channelId="-1" name="24/7| Play! Cinema Horror" group="24/7 MOVIE TIME (SD Y HD)", 24/7| Play! Cinema Horror
+http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1363343
+#EXTINF:0 type="stream" channelId="-1" name="*24/7 Play Terror..", *24/7 Play Terror..
+http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1204136
+#EXTINF:0 type="stream" channelId="-1" name="*24/7 Cuentos de la Cripta", *24/7 Cuentos de la Cripta
+http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1203007
+#EXTINF:0 type="stream" channelId="-1", PLUTO TERROR
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcddf1ed95e740009fef7ab/3063648/playlist.m3u8?terminate=false&sid=1014aeeb-c906-11ed-aa84-2e698ca559d0&deviceDNT=0&deviceLat=-6.7711&deviceLon=-79.8431&deviceModel=web&deviceVersion=111.0.0&includeExtendedEvents=true&serverSideAds=true&appName=web&DRMCapabilities=widevine&deviceId=046a6c14-dce9-4439-9bca-b6de841c5870&appVersion=6.11.1-518d6dea293334a5d23e9fd9322e2bfc2744cda3&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjllNWIzNWMzLTIwYjAtNGJjZS05ZmQ4LTU2ZDk5ZWJkNmJiNSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxMDE0YWVlYi1jOTA2LTExZWQtYWE4NC0yZTY5OGNhNTU5ZDAiLCJjbGllbnRJUCI6IjIwMS4yMTguMTQzLjE3IiwiY2l0eSI6IkNoaWNsYXlvIiwicG9zdGFsQ29kZSI6IiIsImNvdW50cnkiOiJQRSIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiVkUiLCJkZXZpY2VMYXQiOi02Ljc3MTEsImRldmljZUxvbiI6LTc5Ljg0MzEsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjExMS4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMTEuMS01MThkNmRlYTI5MzMzNGE1ZDIzZTlmZDkzMjJlMmJmYzI3NDRjZGEzIiwiY2xpZW50SUQiOiIwNDZhNmMxNC1kY2U5LTQ0MzktOWJjYS1iNmRlODQxYzU4NzAiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9MaW1hIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk1EUTJZVFpqTVRRdFpHTmxPUzAwTkRNNUxUbGlZMkV0WWpaa1pUZzBNV00xT0RjdyIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2Nzk2MTI3MzksImlhdCI6MTY3OTUyNjMzOSwianRpIjoiMzMxYWE1OTEtOWMyNS00YTM0LWE2NDctZTdlZGI0MWQ1YjcwIn0.UM_uaOV8MEdrHtbW2q3XipP33wlfZk4PoYiZ7qNQ6Fs
+#EXTINF:0 type="stream" channelId="1359" name="MOVISTAR ACCION", MOVISTAR ACCION
+http://soberon.us:25461/m0nk/n3w/3576
+#EXTINF:0 type="stream" channelId="1360" name="MOVISTAR COMEDIA", MOVISTAR COMEDIA
+http://soberon.us:25461/m0nk/n3w/3577
+#EXTINF:0 type="stream" channelId="1361" name="MOVISTAR DRAMA", MOVISTAR DRAMA
+http://soberon.us:25461/m0nk/n3w/3580
+#EXTINF:0 type="stream" channelId="1378" name="MOVISTAR ESTRENOS", MOVISTAR ESTRENOS
+http://soberon.us:25461/m0nk/n3w/3581
+#EXTINF:0 type="stream" channelId="4044" name="MOVISTAR SERIEMANIA", MOVISTAR SERIEMANIA
+http://soberon.us:25461/m0nk/n3w/3582
+#EXTINF:0 type="stream" channelId="-1" name="CINE| A ESTRENAR FHD", CINE| A ESTRENAR FHD
+http://soberon.us:25461/m0nk/n3w/3699
 #EXTINF:0 type="stream" channelId="1328" name="DEPORTES HD | FOX SPORTS 1 CHI", DEPORTES HD | FOX SPORTS 1 CHI
 http://soberon.us:25461/m0nk/n3w/3963
 #EXTINF:0 type="stream" channelId="179" name="DEPORTES HD | FOX SPORTS 2 CHI", DEPORTES HD | FOX SPORTS 2 CHI
@@ -125,7 +209,5 @@ http://soberon.us:25461/m0nk/n3w/3965
 http://soberon.us:25461/m0nk/n3w/3966
 #EXTINF:0 type="stream" channelId="357" name="DEPORTES | ESPN  3  ARG", DEPORTES | ESPN  3  ARG
 http://soberon.us:25461/m0nk/n3w/3967
-#EXTINF:0 type="stream" channelId="-1" name="PERU | GOL PERU", PERU | GOL PERU
-http://soberon.us:25461/m0nk/n3w/463
-#EXTINF:0 type="stream" channelId="-1", BEST SPORT
-https://ca2.inka.net.pe/bestcablesports/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="PERU - GOL PERU SD" group="PERU" logo="https://2.bp.blogspot.com/-usJcxF6gJIg/WUVrMywkyzI/AAAAAAAAAi8/DV9fYjhJyKM5Qzd_HIJQKZ1aB-BXRi6CQCLcBGAs/s1600/gol%2Bperu.jpg", PERU - GOL PERU SD
+http://ac.ntvlatino.com/k3streams/hYT9S77Szq225/8329
