@@ -11,12 +11,12 @@ http://soberon.us:25461/m0nk/n3w/459
 http://soberon.us:25461/m0nk/n3w/460
 #EXTINF:0 type="stream" channelId="2549", ATV PLUS
 http://soberon.us:25461/m0nk/n3w/472
-#EXTINF:0 type="stream" channelId="1956" name="PE: Panamericana TV" logo="http://s3.i3ns.net/portal/picon/2021-08/794111f87c2de5afbc9278a42cfd0049.png" tvg-country="pe", Panamericana TV
-http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/22624
 #EXTINF:0 type="stream" channelId="1426", GLOBAL TV
-http://190.108.93.148:8000/play/a0lq/index.m3u8
+http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1115813
 #EXTINF:0 type="stream" channelId="-1", WILAX
 http://167.114.173.24:25461/edson2022/edson2022/42879
+#EXTINF:0 type="stream" channelId="1956" name="PE: Panamericana TV" logo="http://s3.i3ns.net/portal/picon/2021-08/794111f87c2de5afbc9278a42cfd0049.png" tvg-country="pe", Panamericana TV
+http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/22624
 #EXTINF:0 type="stream" channelId="2542" name="PE: TV Peru" logo="http://s3.i3ns.net/portal/picon/2021-08/cd85a133eb9630e338521cf0b3f297b1.png" tvg-country="pe", TV Peru
 http://soberon.us:25461/m0nk/n3w/468
 #EXTINF:0 type="stream" channelId="-1" name="PE: TV Peru Noticias" logo="http://s3.i3ns.net/portal/picon/2022-04/9fbb95c90f3e412b5b973ebe8f293c26.png" tvg-country="pe", TV Peru Noticias
@@ -86,7 +86,7 @@ http://soberon.us:25461/m0nk/n3w/63
 #EXTINF:0 type="stream" channelId="1197", Disney Junior
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/221
 #EXTINF:0 type="stream" channelId="2639", TOONCAST
-http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/23522
+http://kuchini.site:8080/Jonsno/i58CQF2j3yk5UkOU/3091
 #EXTINF:0 type="stream" channelId="41" name="MX: nickelodeon" logo="http://s3.i3ns.net/portal/picon/2021-09/ffe70df63cfe2611a5b1b5fa96984394.png" tvg-country="mx", nickelodeon
 http://soberon.us:25461/m0nk/n3w/765
 #EXTINF:0 type="stream" channelId="19" name="MX: Disney Channel" logo="http://s3.i3ns.net/portal/picon/2021-07/80b12d75191338a0152e9a307ddac20c.png" tvg-country="mx", Disney Channel
