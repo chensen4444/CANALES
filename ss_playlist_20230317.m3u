@@ -57,6 +57,8 @@ http://soberon.us:25461/m0nk/n3w/173
 http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1371951
 #EXTINF:0 type="stream" channelId="-1" name="24/7 | LO QUE CALLAMOS LAS MUJERES HD" group="24/7 MOVIE TIME (SD Y HD)" logo="http://teamnextlevel.xyz:25461/images/bede38b63df946871427d27ff6492a37.png", 24/7 | LO QUE CALLAMOS LAS MUJERES HD
 http://go-nextlevel.xyz:25461/Valentin/Valentin/230059
+#EXTINF:-1 tvg-id="" tvg-name="La Rosa De Guadalupe (i)" tvg-logo="https://budtv-ultra.com/posters/1629258160391.png" group-title="24/7",La Rosa De Guadalupe (i)
+http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/82427
 #EXTINF:0 type="stream" channelId="1964" name="MX: Telehit Musica" logo="http://s3.i3ns.net/portal/picon/2021-07/ddd07a323bd82e3c8ce03f30dba9c97f.png" tvg-country="mx", Telehit Musica
 http://soberon.us:25461/m0nk/n3w/153
 #EXTINF:0 type="stream" channelId="-1" name="MUSIC | Sexy Kpop TV | BR" logo="https://lh3.googleusercontent.com/-_mVYIdXLYWQ/YGuFFxxUHFI/AAAAAAABBOo/1u_EVaReRtY31sRUcng-usb7bVQ9krgKwCK8BGAsYHg/s512/2021-04-05.jpg", MUSIC | Sexy Kpop TV | BR
@@ -81,6 +83,12 @@ http://soberon.us:25461/m0nk/n3w/3135
 http://soberon.us:25461/m0nk/n3w/3137
 #EXTINF:0 type="stream" channelId="-1" name="*24/7 Bob Esponja", *24/7 Bob Esponja
 http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1367457
+#EXTINF:-1 tvg-id="" tvg-name="Ed, Edd y Eddy" tvg-logo="https://panel.budtv-ultra.com/posters/1646276838171.png" group-title="24/7",Ed, Edd y Eddy
+http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/46972
+#EXTINF:-1 tvg-id="" tvg-name="La Vaca Y El Pollito" tvg-logo="https://budtv-ultra.com/posters/1629258320491.png" group-title="24/7",La Vaca Y El Pollito
+http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/46971
+#EXTINF:-1 tvg-id="" tvg-name="La Pantera rosa 24/7" tvg-logo="https://budtv-ultra.com/posters/1629258061539.png" group-title="24/7",La Pantera rosa 24/7
+http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/11989
 #EXTINF:0 type="stream" channelId="-1" logo="https://http2.mlstatic.com/pin-conmemorativo-coraje-el-perro-cobarde-cartoon-network-D_NQ_NP_640899-MLM31351314637_072019-F.jpg", COBARDE EL PERRO
 http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1116186
 #EXTINF:0 type="stream" channelId="-1" name="24/7|| El Chavo Animado" logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/El_Chavo_Animado_-_logo.svg/1200px-El_Chavo_Animado_-_logo.svg.png", 24/7|| El Chavo Animado
@@ -185,6 +193,8 @@ http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1363343
 http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1204136
 #EXTINF:0 type="stream" channelId="-1" name="*24/7 Cuentos de la Cripta", *24/7 Cuentos de la Cripta
 http://moontools.me:8080/carlos_maritinez/carlos_maritinez45gds/1203007
+#EXTINF:-1 tvg-id="" tvg-name="DTV-Terror" tvg-logo="https://budtv-ultra.com/posters/1629076847527.png" group-title="24/7",DTV-Terror
+http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/12069
 #EXTINF:0 type="stream" channelId="1359" name="MOVISTAR ACCION", MOVISTAR ACCION
 http://soberon.us:25461/m0nk/n3w/3576
 #EXTINF:0 type="stream" channelId="1360" name="MOVISTAR COMEDIA", MOVISTAR COMEDIA
