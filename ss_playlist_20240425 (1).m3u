@@ -18,7 +18,7 @@ http://bantel.iptvperu.tv:1935/transcoderip/global_t1.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", PANAMERICANA
 https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:0 type="stream" channelId="-1", TV CONGRESO
-http://bantel.iptvperu.tv:1935/astralocal/canalcongreso.stream/playlist.m3u8
+http://190.61.43.117:45000/play/a03a
 #EXTINF:0 type="stream" channelId="-1", AUTENTICA TV
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", GENIOZ TV
@@ -50,13 +50,11 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 type="stream" channelId="1969", TELENOVELAS
 http://45.191.234.189:15082/play/a05b/index.m3u8
 #EXTINF:0 type="stream" channelId="4661", PASIONES
-http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+http://190.61.43.117:45000/play/a04x
 #EXTINF:0 type="stream" channelId="-1", LA ROSA DE GUADALUPE
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", H&H
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/3847
-#EXTINF:0 type="stream" channelId="-1", BOB ESPONJA
-http://51.159.104.29:8080/bobesponja/index.m3u8
 #EXTINF:0 type="stream" channelId="40", CARTOON NETWORK
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 #EXTINF:0 type="stream" channelId="19", DISNEY CHANNEL
@@ -98,7 +96,7 @@ https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", VIVO PLAY
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1573", AXN
-http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+http://190.61.43.117:45000/play/a05g
 #EXTINF:0 type="stream" channelId="3131", AXN WHITE
 http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/369.m3u8
 #EXTINF:0 type="stream" channelId="383", SPACE
