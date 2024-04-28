@@ -56,7 +56,7 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", H&H
 http://magmas5.com:8000/sunlink/dFIdo0UaMM/3847
 #EXTINF:0 type="stream" channelId="40", CARTOON NETWORK
-http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+http://138.59.177.34:8000/play/a023/index.m3u8
 #EXTINF:0 type="stream" channelId="19", DISNEY CHANNEL
 http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyChannel.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1197", DISNEY JUNIOR
