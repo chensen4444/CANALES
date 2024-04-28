@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", EXITOSA
+https://live-zlr1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+#EXTINF:0 type="stream" channelId="2545", LATINA
+https://live-zlr1.tv360.bitel.com.pe/bitel/latina/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+#EXTINF:0 type="stream" channelId="4804", WILLAX
+https://live-zlr1.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+#EXTINF:0 type="stream" channelId="-1", AMERICA
+https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+#EXTINF:0 type="stream" channelId="962", ATV
+https://alba-pe-atv-atv.stream.mediatiquestream.com:443/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1", ATV +
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
+#EXTINF:0 type="stream" channelId="4794", ATV SUR
+http://bantel.iptvperu.tv:1935/transcoderip/atvsurmovil_t6.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1426", GLOBAL TV
+http://bantel.iptvperu.tv:1935/transcoderip/global_t1.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", PANAMERICANA
+https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+#EXTINF:0 type="stream" channelId="-1", TV CONGRESO
+http://bantel.iptvperu.tv:1935/astralocal/canalcongreso.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV CONECTADOS
+https://live-zlr1.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+#EXTINF:0 type="stream" channelId="-1", PBO TV
+http://bantel.iptvperu.tv:1935/bantel/PBO/playlist.m3u8
+#EXTINF:0 type="stream" channelId="984", VIVA TV
+http://bantel.iptvperu.tv:1935/transcoderip/rbc_t1.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1559", PLANETA TV
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", SELVA TV
+https://live.obslivestream.com/selvatv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ATMOSFERA TV
+http://sv-xyeia5stvh.cloud.elastika.pe:5080/LiveApp/streams/atmos2023.m3u8
+#EXTINF:0 type="stream" channelId="-1", AUTENTICA TV
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", GENIOZ TV
+https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", CRT TV
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", W TV
+https://live.obslivestream.com/wtv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", CONTACTO TV
+https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0
+#EXTINF:0 type="stream" channelId="-1", VZ TV
+https://live.obslivestream.com/vztv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", VIA ALTOMAYO
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", NORT SELVA
+https://live.obslivestream.com/norselvatv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ANTAREZ TV
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TARAPOTO TV
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", VIA TV
+https://ott1.hdlatam.tv/live_abr/VIATV/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TROPICAL TV
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:0 type="stream" channelId="-1", URANIO TV
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", RTV TOTAL
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+#EXTINF:0 type="stream" channelId="-1", ORIENTE TV
+https://live.obslivestream.com/tvoriente/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TELECOLOR
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", RN NOTICIAS
+https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
+#EXTINF:0 type="stream" channelId="-1", DOLBLE A
+https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
+#EXTINF:0 type="stream" channelId="984", VIVA TV
+https://live.obslivestream.com/vivatv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", UCAYALINA TV
+https://video.agenciastreaming.com:3959/live/utvlive.m3u8
+#EXTINF:0 type="stream" channelId="-1", YA TV
+https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
+#EXTINF:0 type="stream" channelId="-1", PUCALLPA TV
+https://vdo.grupolimalive.com:3333/live/pucallpatvlive.m3u8
+#EXTINF:0 type="stream" channelId="-1", UCAYALI TV
+http://stream.fuegoplayer.com/ucayalitv/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", RIBEREÑA TV
+https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
+#EXTINF:0 type="stream" channelId="-1", BNB DIGITAL
+https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2463", TOP TV
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:0 type="stream" channelId="1954", LAS ESTRELLAS
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0 type="stream" channelId="1969", TELENOVELAS
+http://45.191.234.189:15082/play/a05b/index.m3u8
+#EXTINF:0 type="stream" channelId="4661", PASIONES
+http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", LA ROSA DE GUADALUPE
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", H&H
+http://magmas5.com:8000/sunlink/dFIdo0UaMM/3847
+#EXTINF:0 type="stream" channelId="-1", BOB ESPONJA
+http://51.159.104.29:8080/bobesponja/index.m3u8
+#EXTINF:0 type="stream" channelId="40", CARTOON NETWORK
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+#EXTINF:0 type="stream" channelId="19", DISNEY CHANNEL
+http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyChannel.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1197", DISNEY JUNIOR
+http://bantel.iptvperu.tv:1935/transcoder2-srt/DisneyJR.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", DREAM WORKS
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+#EXTINF:0 type="stream" channelId="41", NICKELODEON
+http://bantel.iptvperu.tv:1935/transcoder4-srt/nick.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="322", NICK JR
+http://bantel.iptvperu.tv:1935/transcoder4-srt/nickjr.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2709", TEEN NICK
+http://bantel.iptvperu.tv:1935/transcoder4-srt/nickteen.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", BITME
+http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2639", TOONCAST
+http://138.59.177.34:8000/play/a04x/index.m3u8
+#EXTINF:0 type="stream" channelId="2057", TERROR TV
+https://tv.streaming-chile.com:19360/8140/8140.m3u8?WebM3UCL
+#EXTINF:0 type="stream" channelId="-1", GOLDEN 1
+https://linear-406.frequency.stream/mt/studio/406/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", GOLDEN 2
+https://linear-408.frequency.stream/mt/studio/408/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", GOLDEN 3
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3765", GOLDEN PLUS
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1963", GOLDEN PREMIER
+https://linear-411.frequency.stream/mt/studio/411/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2502", GOLDEN EDGE
+https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", DPELICULA
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", DPELICULA PLUS
+https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1961", DISTRITO COMEDIA
+https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", VIVO PLAY
+https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1573", AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3131", AXN WHITE
+http://tiyagotrocas.game-server.cc:3698/tiyago_spain/pPAPBe1tKD/369.m3u8
+#EXTINF:0 type="stream" channelId="383", SPACE
+http://138.59.177.34:8000/play/a02c/index.m3u8
+#EXTINF:0 type="stream" channelId="2501", AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CINELIFE
+https://magnolia-cinelife.amagi.tv/amRdirect/did=&gdpr=&lat=&lon=&us_privacy=&consent=&dnt=/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:0 type="stream" channelId="64", CINECANAL
+http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4036", PARAMOUNT NETWORK
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+#EXTINF:0 type="stream" channelId="188", SONY CHANNEL
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1214", SONY MOVIES
+http://bantel.iptvperu.tv:1935/transcoder4-srt/SonyMovies.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2625", STUDIO UNIVERSAL
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+#EXTINF:0 type="stream" channelId="344", ESPN 2
+http://190.61.43.117:45000/play/a053
+#EXTINF:0 type="stream" channelId="355", ESPN 3
+http://190.61.43.117:45000/play/a051
+#EXTINF:0 type="stream" channelId="1328", FOX SPORTS
+http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
+#EXTINF:0 type="stream" channelId="170", FOX SPORTS 2
+http://190.61.43.117:45000/play/a01g
+#EXTINF:0 type="stream" channelId="180", FOX SPORTS 3
+http://190.61.43.117:45000/play/a060
+#EXTINF:0 type="stream" channelId="-1", Afizzionados
+http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TUDN USA
+http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3751", FOX DEPORTES
+http://livex.pop-app.live/s4n/poplive/ch301/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", MADRID DEPORTES
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TIGO DEPORTES
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", BEINS SPORT
+https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ADRENALINA
+https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", SPORT EXT
+https://marine2.miplay.cl/sportext/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2540", ESPN
+http://190.61.43.117:45000/play/a01l
+#EXTINF:0 type="stream" channelId="1432", ESPN 4
+http://190.61.43.117:45000/play/a06w
+#EXTINF:0 type="stream" channelId="4657", ESPN
+http://190.61.43.117:45000/play/a01v
+#EXTINF:0 type="stream" channelId="-1", ESPN 6
+http://bantel.iptvperu.tv:1935/deportes_ll/FoxSports3_t2.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ESPN 7
+http://bantel.iptvperu.tv:1935/deportes_ll/FoxSports2_t2.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CLARO SPORT
+http://138.59.177.34:8000/play/a01i/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", CLARO SPORT 2
+http://138.59.177.34:8000/play/a01j/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TNT SPORT
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", GOL PERU
+http://190.61.55.186:1010/play/a010/index.m3u8
+#EXTINF:0 type="stream" channelId="1365", MOVISTAR DEPORTES
+http://190.61.55.186:1010/play/a00q/index.m3u8
