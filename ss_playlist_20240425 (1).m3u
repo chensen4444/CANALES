@@ -19,42 +19,20 @@ http://bantel.iptvperu.tv:1935/transcoderip/global_t1.stream/playlist.m3u8
 https://live-zlr1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
 #EXTINF:0 type="stream" channelId="-1", TV CONGRESO
 http://bantel.iptvperu.tv:1935/astralocal/canalcongreso.stream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV CONECTADOS
-https://live-zlr1.tv360.bitel.com.pe/bitel/conectados/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
-#EXTINF:0 type="stream" channelId="-1", PBO TV
-http://bantel.iptvperu.tv:1935/bantel/PBO/playlist.m3u8
-#EXTINF:0 type="stream" channelId="984", VIVA TV
-http://bantel.iptvperu.tv:1935/transcoderip/rbc_t1.stream/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1559", PLANETA TV
-https://live.obslivestream.com/planetatv/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", SELVA TV
-https://live.obslivestream.com/selvatv/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", ATMOSFERA TV
-http://sv-xyeia5stvh.cloud.elastika.pe:5080/LiveApp/streams/atmos2023.m3u8
 #EXTINF:0 type="stream" channelId="-1", AUTENTICA TV
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", GENIOZ TV
 https://live.obslivestream.com/geniostvmux/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", CRT TV
-https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", W TV
 https://live.obslivestream.com/wtv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", CONTACTO TV
 https://live.obslivestream.com/cdeportivo/video.m3u8?token=ckPPAmBEYJtkr0
-#EXTINF:0 type="stream" channelId="-1", VZ TV
-https://live.obslivestream.com/vztv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", VIA ALTOMAYO
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", NORT SELVA
 https://live.obslivestream.com/norselvatv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", ANTAREZ TV
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TARAPOTO TV
-https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", VIA TV
-https://ott1.hdlatam.tv/live_abr/VIATV/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TROPICAL TV
-https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 #EXTINF:0 type="stream" channelId="-1", URANIO TV
 https://live.obslivestream.com/uraniotv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", RTV TOTAL
