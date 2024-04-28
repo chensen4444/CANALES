@@ -39,22 +39,12 @@ https://live.obslivestream.com/tvoriente/index.m3u8
 https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", DOLBLE A
 https://videoserver.tmcreativos.com:19360/yvmgbdpqmp/yvmgbdpqmp.m3u8
-#EXTINF:0 type="stream" channelId="984", VIVA TV
-https://live.obslivestream.com/vivatv/index.m3u8
 #EXTINF:0 type="stream" channelId="-1", UCAYALINA TV
 https://video.agenciastreaming.com:3959/live/utvlive.m3u8
-#EXTINF:0 type="stream" channelId="-1", YA TV
-https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 #EXTINF:0 type="stream" channelId="-1", PUCALLPA TV
 https://vdo.grupolimalive.com:3333/live/pucallpatvlive.m3u8
 #EXTINF:0 type="stream" channelId="-1", UCAYALI TV
 http://stream.fuegoplayer.com/ucayalitv/index.m3u8
-#EXTINF:0 type="stream" channelId="-1", RIBEREÑA TV
-https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8
-#EXTINF:0 type="stream" channelId="-1", BNB DIGITAL
-https://ott1.hdlatam.tv/live/BNB/playlist.m3u8
-#EXTINF:0 type="stream" channelId="2463", TOP TV
-https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 #EXTINF:0 type="stream" channelId="1954", LAS ESTRELLAS
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 type="stream" channelId="1969", TELENOVELAS
