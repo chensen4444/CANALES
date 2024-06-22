@@ -116,7 +116,7 @@ http://bantel.iptvperu.tv:1935/transcoder4-srt/SonyMovies.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="2625", STUDIO UNIVERSAL
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 #EXTINF:0 type="stream" channelId="344", ESPN 2
-http://190.61.43.117:45000/play/a053
+http://170.82.37.21:8000/play/a04g/index.m3u8
 #EXTINF:0 type="stream" channelId="355", ESPN 3
 http://190.61.43.117:45000/play/a051
 #EXTINF:0 type="stream" channelId="1328", FOX SPORTS
